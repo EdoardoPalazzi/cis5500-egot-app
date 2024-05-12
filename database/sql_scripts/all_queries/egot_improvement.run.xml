@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="egot_improvement" type="DatabaseScript">
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/egot_winners.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/egot_winners_opt.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/egot_paths.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/egot_paths_opt.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/missing_one_award.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/missing_one_award_opt.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="55910f54-e55e-4f06-b951-aa4cebd66c88" namespace="schema/&quot;egot&quot;" />
+    <method v="2" />
+  </configuration>
+</component>

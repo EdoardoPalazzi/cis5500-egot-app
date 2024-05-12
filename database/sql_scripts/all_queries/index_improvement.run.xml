@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="index_improvement" type="DatabaseScript">
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/most_losses_before_win_ignore_index.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/most_losses_before_win.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/longest_year_span_ignore_index.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/longest_year_span.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/most_categories_without_index.sql" />
+    <script-file value="$USER_HOME$/OneDrive/Desktop/550_Project_Repo/cis5500-project/database/sql_scripts/individual_queries/most_categories.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="55910f54-e55e-4f06-b951-aa4cebd66c88" namespace="schema/&quot;egot&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
