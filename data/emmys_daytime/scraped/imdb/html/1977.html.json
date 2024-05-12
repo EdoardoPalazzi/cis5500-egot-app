@@ -1,0 +1,2787 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Daytime Emmy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Outstanding Achievement in Daytime Drama Specials",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The American Woman: Portraits of Courage",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0312351"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Gaby Monet",
+                                            "note": "(producer/writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0597878"
+                                        },
+                                        {
+                                            "name": "Lois Nettleton",
+                                            "note": "(performer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjk5NDk0NzY4OV5BMl5BanBnXkFtZTcwMTE1MDgxOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1322,
+                                            "const": "nm0626728"
+                                        },
+                                        {
+                                            "name": "Anne Grant",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2661025"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Daytime Drama Specials",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013492",
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Val Dufour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGI5NjEzNzEtMDc1Yi00NjYxLWE1MGUtYjhmNWQ2Yzg2Y2M0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 320,
+                                            "imageWidth": 263,
+                                            "const": "nm0240719"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Search for Tomorrow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTZkZjJlYjMtZTFiNi00ODQwLWE2N2UtOWE2ZGZhZjczNWExXkEyXkFqcGdeQXVyMzkyOTQ0NzY@._V1_.jpg",
+                                            "imageHeight": 526,
+                                            "imageWidth": 468,
+                                            "originalName": null,
+                                            "const": "tt0043229"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013514",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Farley Granger",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzODIwNzc4Nl5BMl5BanBnXkFtZTcwODEzMTM4NA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1168,
+                                            "const": "nm0335048"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "One Life to Live",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWVmMzM5ZTItMDU2Yi00MmNiLTk2ODgtNjY4ODg3ZTZkYjU0L2ltYWdlXkEyXkFqcGdeQXVyNDQzMDkxNA@@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0062595"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013517",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "James Pritchett",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0698097"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Doctors",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU2NTNhN2MtMzQ3ZS00NzhkLTk5NzItNzIyNTUyODY0MDM0XkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
+                                            "imageHeight": 750,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0056752"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013516",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Larry Haines",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0354261"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Search for Tomorrow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTZkZjJlYjMtZTFiNi00ODQwLWE2N2UtOWE2ZGZhZjczNWExXkEyXkFqcGdeQXVyMzkyOTQ0NzY@._V1_.jpg",
+                                            "imageHeight": 526,
+                                            "imageWidth": 468,
+                                            "originalName": null,
+                                            "const": "tt0043229"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013518",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Larry Keith",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0445263"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "All My Children",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2YxZTUyODYtNjczMi00MDUwLTg3YTMtMGU2NjkzOWM5NGM3XkEyXkFqcGdeQXVyMTk5NDYxNDk@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0065272"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actor in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013515",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Helen Gallagher",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0302387"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ryan's Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwZGI1MWYtNTA2Yi00NzkyLWFjZDUtOWE3MjY3NjdlZDE2XkEyXkFqcGdeQXVyMjg0Mjg1MDM@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 688,
+                                            "originalName": null,
+                                            "const": "tt0072559"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013519",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Beverlee McKinsey",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTY4NmM5MTMtMWFmZS00MDRmLTkyOGItMDc4MTRhZTBmNzFlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+                                            "imageHeight": 1043,
+                                            "imageWidth": 1211,
+                                            "const": "nm0571979"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Another World",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODAwNTEyNDYwNV5BMl5BanBnXkFtZTgwODc3NDAzNzE@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 361,
+                                            "originalName": null,
+                                            "const": "tt0057731"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013521",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mary Stuart",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2FiZmZhOTktMjBlZS00NDg1LWJmNDYtN2RkNjQwZTM5Zjk5XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_.jpg",
+                                            "imageHeight": 2495,
+                                            "imageWidth": 3018,
+                                            "const": "nm0835791"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Search for Tomorrow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTZkZjJlYjMtZTFiNi00ODQwLWE2N2UtOWE2ZGZhZjczNWExXkEyXkFqcGdeQXVyMzkyOTQ0NzY@._V1_.jpg",
+                                            "imageHeight": 526,
+                                            "imageWidth": 468,
+                                            "originalName": null,
+                                            "const": "tt0043229"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013523",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nancy Addison",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0011716"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ryan's Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwZGI1MWYtNTA2Yi00NzkyLWFjZDUtOWE3MjY3NjdlZDE2XkEyXkFqcGdeQXVyMjg0Mjg1MDM@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 688,
+                                            "originalName": null,
+                                            "const": "tt0072559"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013522",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ruth Warrick",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTczOTgxNTg3OV5BMl5BanBnXkFtZTcwMTQ4NDYwOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1661,
+                                            "const": "nm0913095"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "All My Children",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2YxZTUyODYtNjczMi00MDUwLTg3YTMtMGU2NjkzOWM5NGM3XkEyXkFqcGdeQXVyMTk5NDYxNDk@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0065272"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Actress in a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013520",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Children's Entertainment Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Zoom",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTExMzM1OTQ4OTBeQTJeQWpwZ15BbWU3MDEwNjk1MTE@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 264,
+                                            "originalName": null,
+                                            "const": "tt0143080"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Susheel Bibbs",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTcyNzNkNTQtNjExNi00NDNhLTkyNGMtYjhmMmE0ZTQ0ZGFlXkEyXkFqcGdeQXVyMjA0MDcwMTc@._V1_.jpg",
+                                            "imageHeight": 514,
+                                            "imageWidth": 465,
+                                            "const": "nm2700957"
+                                        },
+                                        {
+                                            "name": "Monia Joblin",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2701385"
+                                        },
+                                        {
+                                            "name": "Mary Benjamin",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0071333"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013497",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Captain Kangaroo",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzYzYmRjZmQtMWE1ZC00MTAwLTg4ODgtZmJlZDU5NTFlNmUzXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 1600,
+                                            "imageWidth": 1200,
+                                            "originalName": null,
+                                            "const": "tt0047718"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jim Hirschfeld",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1743548"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013498",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "David Copperfield",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzMDgxMDU3Ml5BMl5BanBnXkFtZTcwNjcxMTIzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0210636"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jay Rayvid",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0713558"
+                                        },
+                                        {
+                                            "name": "John McRae",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0574443"
+                                        },
+                                        {
+                                            "name": "Don Coney",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2954723"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": "(Screened within Once Upon a Classic (1976)).",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013499",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Heidi",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjlhMjQ0ZTctYWQ5NS00ZWU3LWJiMjItNTI0ZmQ4NmQ3Yzg1XkEyXkFqcGdeQXVyMTI4ODU5NjEw._V1_.jpg",
+                                            "imageHeight": 427,
+                                            "imageWidth": 267,
+                                            "originalName": null,
+                                            "const": "tt0228374"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jay Rayvid",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0713558"
+                                        },
+                                        {
+                                            "name": "John McRae",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0574443"
+                                        },
+                                        {
+                                            "name": "Don Coney",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2954723"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": "(Screened within Once Upon a Classic (1976)).",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013500",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Prince and the Pauper",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDA1NDU2MjMtODRiYi00OThmLWE0OGMtOWUxZDZmYzM1ZmMzXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 2162,
+                                            "imageWidth": 1529,
+                                            "originalName": null,
+                                            "const": "tt0424363"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jay Rayvid",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0713558"
+                                        },
+                                        {
+                                            "name": "Barry Letts",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzI4NjM0NTYtNDVkZS00YzlmLWI5ZjAtYjNiMDdkYjE0NmRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_.jpg",
+                                            "imageHeight": 515,
+                                            "imageWidth": 631,
+                                            "const": "nm0504818"
+                                        },
+                                        {
+                                            "name": "Don Coney",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2954723"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": "(Screened within Once Upon a Classic (1976)).",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013501",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Children's Entertainment Special",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "NBC Special Treat",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWY3ODdmZTYtMmUxNC00ZmQ1LTllZWQtNWZkNDMxNzlkNWQwXkEyXkFqcGdeQXVyODk4NDIzMTU@._V1_.jpg",
+                                            "imageHeight": 600,
+                                            "imageWidth": 480,
+                                            "originalName": null,
+                                            "const": "tt1043199"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Linda Gottlieb",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc3NWI0YmMtNGE2ZS00ZWMyLTk2OWUtMTA3NjkzM2RhZjJjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 957,
+                                            "imageWidth": 746,
+                                            "const": "nm0331988"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Big Henry and the Polka Dot Kid\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Big Henry and the Polka Dot Kid"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013502",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "ABC Afterschool Specials",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY2MmRiZjQtM2MyMC00MDViLThhMjUtYzZiN2JkYzA4NDE5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_.jpg",
+                                            "imageHeight": 673,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0202179"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Daniel Wilson",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0933249"
+                                        },
+                                        {
+                                            "name": "Fran Sears",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0780763"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"P.J. and the President's Son\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "P.J. and the President's Son"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013505",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "ABC Afterschool Specials",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY2MmRiZjQtM2MyMC00MDViLThhMjUtYzZiN2JkYzA4NDE5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_.jpg",
+                                            "imageHeight": 673,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0202179"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Daniel Wilson",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0933249"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Blind Sunday\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Blind Sunday"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013504",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "ABC Afterschool Specials",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY2MmRiZjQtM2MyMC00MDViLThhMjUtYzZiN2JkYzA4NDE5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_.jpg",
+                                            "imageHeight": 673,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0202179"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Martin Tahse",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0846708"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Francesca, Baby\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Francesca, Baby"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013503",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "NBC Special Treat",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWY3ODdmZTYtMmUxNC00ZmQ1LTllZWQtNWZkNDMxNzlkNWQwXkEyXkFqcGdeQXVyODk4NDIzMTU@._V1_.jpg",
+                                            "imageHeight": 600,
+                                            "imageWidth": 480,
+                                            "originalName": null,
+                                            "const": "tt1043199"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Linda Gottlieb",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc3NWI0YmMtNGE2ZS00ZWMyLTk2OWUtMTA3NjkzM2RhZjJjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 957,
+                                            "imageWidth": 746,
+                                            "const": "nm0331988"
+                                        },
+                                        {
+                                            "name": "Richard Marquand",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgwY2ZkYjEtNzgxZi00ZDIyLWJhZWItZjg1NGQ4OWE5ZTZhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+                                            "imageHeight": 1081,
+                                            "imageWidth": 720,
+                                            "const": "nm0549658"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Luke Was There\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Luke Was There"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013507",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The CBS Festival of Lively Arts for Young People",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2Y1NWZkNTMtZDA1OC00MTA2LTliYTAtNGY1NjhhOTE3OGY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 375,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0335632"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ronald S. Kass",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0440798"
+                                        },
+                                        {
+                                            "name": "Edgar Bronfman Jr.",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExNDU5MjA2OF5BMl5BanBnXkFtZTYwOTQ1NTE0._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 270,
+                                            "const": "nm0111426"
+                                        },
+                                        {
+                                            "name": "Gary Keys",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0450870"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Entertainment Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Original Rompin' Stompin' Hot And Heavy, Cool And Groove All Star Jazz Show\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Original Rompin' Stompin' Hot And Heavy, Cool And Groove All Star Jazz Show"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013506",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Children's Informational Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Electric Company",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQxODUyMTIyMF5BMl5BanBnXkFtZTcwODkxMTYzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 370,
+                                            "originalName": null,
+                                            "const": "tt0066651"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Samuel Y. Gibbon Jr.",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0316509"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013508",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "ABC Minute Magazine",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt2349140"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Thomas H. Wolf",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1101101"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0406411",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Animals, Animals, Animals",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzVlZmNlYmQtYTJjZS00MmQzLWIyNWYtMDgyMmUyMGIxMDk1XkEyXkFqcGdeQXVyNjY5ODYwNjM@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0231010"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Lester Cooper",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0178216"
+                                        },
+                                        {
+                                            "name": "Peter Weinberg",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0918143"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013509",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Schoolhouse Rock!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgyYTA0MTMtNWMwOS00YTdhLTg0NGMtOWJhMTNkMjQxZDUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+                                            "imageHeight": 1333,
+                                            "imageWidth": 1000,
+                                            "originalName": null,
+                                            "const": "tt0069627"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Tom Yohe",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0948358"
+                                        },
+                                        {
+                                            "name": "Radford Stone",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0832111"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013510",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Children's Informational Special",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "ABC Afterschool Specials",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY2MmRiZjQtM2MyMC00MDViLThhMjUtYzZiN2JkYzA4NDE5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_.jpg",
+                                            "imageHeight": 673,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0202179"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "David H. DePatie",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0220039"
+                                        },
+                                        {
+                                            "name": "Friz Freleng",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzYwNTI2NDEtZTQyYS00OGJhLTgxNTEtNmNjZWYwZWVkNjc0XkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_.jpg",
+                                            "imageHeight": 334,
+                                            "imageWidth": 500,
+                                            "const": "nm0293989"
+                                        },
+                                        {
+                                            "name": "Robert Chenault",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0155482"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"My Mom's Having A Baby\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "My Mom's Having A Baby"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013511",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "How to Follow the Campaign",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt2704016"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Sid Darion",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2719172"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Informational Special",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0436471",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Children's Instructional Programming - Series and Specials",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sesame Street",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1011,
+                                            "originalName": null,
+                                            "const": "tt0063951"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jon Stone",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0831968"
+                                        },
+                                        {
+                                            "name": "Dulcy Singer",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0801920"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Instructional Programming - Series and Specials",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013512",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Villa Alegre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWRjMTAwMDYtZGVlYi00MmU5LWIzM2UtMGZjZTE1ZDA0MDM0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQzOTA1MzE@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 735,
+                                            "originalName": null,
+                                            "const": "tt0205707"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Claudio Guzm\u00e1n",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0350041"
+                                        },
+                                        {
+                                            "name": "Larry Gottlieb",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0331986"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Children's Instructional Programming - Series and Specials",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013513",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Daytime Drama Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ryan's Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwZGI1MWYtNTA2Yi00NzkyLWFjZDUtOWE3MjY3NjdlZDE2XkEyXkFqcGdeQXVyMjg0Mjg1MDM@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 688,
+                                            "originalName": null,
+                                            "const": "tt0072559"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Paul Avila Mayer",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0996410"
+                                        },
+                                        {
+                                            "name": "Claire Labine",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDQxNjQyMTIyNV5BMl5BanBnXkFtZTgwNDAxNTg1MDI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1362,
+                                            "const": "nm0479525"
+                                        },
+                                        {
+                                            "name": "Robert Costello",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0182607"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013487",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "All My Children",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2YxZTUyODYtNjczMi00MDUwLTg3YTMtMGU2NjkzOWM5NGM3XkEyXkFqcGdeQXVyMTk5NDYxNDk@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0065272"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bud Kloss",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm3103994"
+                                        },
+                                        {
+                                            "name": "Agnes Nixon",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg2OTQwNl5BMl5BanBnXkFtZTYwNjYwNzQz._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 289,
+                                            "const": "nm0633202"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013488",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Another World",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODAwNTEyNDYwNV5BMl5BanBnXkFtZTgwODc3NDAzNzE@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 361,
+                                            "originalName": null,
+                                            "const": "tt0057731"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Paul Rauch",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0712017"
+                                        },
+                                        {
+                                            "name": "Mary S. Bonner",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0094919"
+                                        },
+                                        {
+                                            "name": "Joe Rothenberger",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0745156"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013490",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Days of Our Lives",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYxYmY4MTYtM2ViYy00MjE1LTg2NjYtNTUzMGUzYjc3MGYyXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+                                            "imageHeight": 453,
+                                            "imageWidth": 340,
+                                            "originalName": null,
+                                            "const": "tt0058796"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Betty Corday",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1095931"
+                                        },
+                                        {
+                                            "name": "Wes Kenney",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0448508"
+                                        },
+                                        {
+                                            "name": "Jack Herzberg",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0381246"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013489",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Edge of Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjczY2UyZGMtZjBjYS00Y2QwLTk3NjctN2U4ZGI5ZDUwZjliXkEyXkFqcGdeQXVyMzkyOTQ0NzY@._V1_.jpg",
+                                            "imageHeight": 691,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0048860"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Erwin Nicholson",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0629818"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013491",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Game or Audience Participation Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Family Feud",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWY3ODNkOWItZTZmMC00M2I3LWJkNWItODVjYWI0OWIwYzg0XkEyXkFqcGdeQXVyNjkxMjAzMTI@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 358,
+                                            "originalName": null,
+                                            "const": "tt0073991"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Howard Felsher",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0271588"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013524",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Match Game",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmIwOTM5YTgtMWMyZC00OGYwLWJhN2EtOTljZWRlZGJlNDJmXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": "Match Game 73",
+                                            "const": "tt0069608"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ira Skutch",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0804973"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013527",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Tattletales",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODUxMGMxZTUtNzQ2OC00MjA4LWExOTQtMDhjZjE5ZTI1N2UzXkEyXkFqcGdeQXVyNjI3Nzc0MjE@._V1_.jpg",
+                                            "imageHeight": 452,
+                                            "imageWidth": 596,
+                                            "originalName": null,
+                                            "const": "tt0071063"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ira Skutch",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0804973"
+                                        },
+                                        {
+                                            "name": "Paul Alter",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0022750"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013528",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The $10,000 Pyramid",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzgyYTNlOWItNmVlYy00YTljLTljZTgtN2ZkMDM4MGIxYjI5XkEyXkFqcGdeQXVyOTE2NDEzOQ@@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0185049"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Stewart",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGY5NjBlNTYtYmNkMy00NWU0LWJmYzMtMWI5ZTQzY2MxNjZiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1418,
+                                            "const": "nm0829212"
+                                        },
+                                        {
+                                            "name": "Anne-Marie Schmitt",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0773400"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013525",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Hollywood Squares (Daytime)",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmYwZGVjNjItZDg0Ni00YzBmLWJkNjgtMmExOTUyZGE4MzI5L2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 702,
+                                            "imageWidth": 545,
+                                            "originalName": null,
+                                            "const": "tt0059995"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Quigley",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0703490"
+                                        },
+                                        {
+                                            "name": "Merrill Heatter",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0372790"
+                                        },
+                                        {
+                                            "name": "Jay Redack",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0714628"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013526",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Host or Hostess in a Game or Audience Participation Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bert Convy",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyNDI1MjQwMV5BMl5BanBnXkFtZTcwODA0NjIyOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1389,
+                                            "const": "nm0176622"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Tattletales",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODUxMGMxZTUtNzQ2OC00MjA4LWExOTQtMDhjZjE5ZTI1N2UzXkEyXkFqcGdeQXVyNjI3Nzc0MjE@._V1_.jpg",
+                                            "imageHeight": 452,
+                                            "imageWidth": 596,
+                                            "originalName": null,
+                                            "const": "tt0071063"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013533",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dick Clark",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NDI4NTYyM15BMl5BanBnXkFtZTcwMTA5ODAyMw@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 406,
+                                            "const": "nm0163863"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The $10,000 Pyramid",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzgyYTNlOWItNmVlYy00YTljLTljZTgtN2ZkMDM4MGIxYjI5XkEyXkFqcGdeQXVyOTE2NDEzOQ@@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0185049"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013534",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gene Rayburn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODRjMDJhYTktODI2Yi00ZTM4LTgwZjAtODA2ZGExM2ViZWVkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+                                            "imageHeight": 692,
+                                            "imageWidth": 472,
+                                            "const": "nm0713073"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Match Game",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmIwOTM5YTgtMWMyZC00OGYwLWJhN2EtOTljZWRlZGJlNDJmXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": "Match Game 73",
+                                            "const": "tt0069608"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013535",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Host or Hostess in a Talk, Service or Variety Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Phil Donahue",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyNjc5OTg1NF5BMl5BanBnXkFtZTYwNDIyNDM0._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 268,
+                                            "const": "nm0004882"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Donahue",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjU1MzZlNWMtOWQ2Zi00NDIzLWI5MGYtMDc2ZTY1N2EwY2U2XkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg",
+                                            "imageHeight": 442,
+                                            "imageWidth": 500,
+                                            "originalName": "The Phil Donahue Show",
+                                            "const": "tt0065335"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013529",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dinah Shore",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzU5NTUyNzc0M15BMl5BanBnXkFtZTYwMzk2ODM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 343,
+                                            "const": "nm0794918"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Dinah!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTMyN2RkMDEtMjVhNy00NzI5LTkwMmEtYTYyNGFjMTI5NmU3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0070982"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013530",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Merv Griffin",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA0NTQ1ODk2OTZeQTJeQWpwZ15BbWU3MDYyMTIxNTE@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 299,
+                                            "const": "nm0341311"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Merv Griffin Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTM2MGIzNjktNTBlYy00YmYwLTlmMDQtOTZlZWE4NjcxNDdmXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+                                            "imageHeight": 974,
+                                            "imageWidth": 607,
+                                            "originalName": null,
+                                            "const": "tt0055691"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013531",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mike Douglas",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0OTU4NDI5NV5BMl5BanBnXkFtZTYwMTcwNTQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 351,
+                                            "const": "nm0235185"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Mike Douglas Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgyMjg4NjExMl5BMl5BanBnXkFtZTcwMDA0NTI2MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 343,
+                                            "originalName": null,
+                                            "const": "tt0170980"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Host or Hostess in a Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013532",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Lela Swift",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0842611"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ryan's Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwZGI1MWYtNTA2Yi00NzkyLWFjZDUtOWE3MjY3NjdlZDE2XkEyXkFqcGdeQXVyMjg0Mjg1MDM@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 688,
+                                            "originalName": null,
+                                            "const": "tt0072559"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013536",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Al Rabin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0704888"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Days of Our Lives",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYxYmY4MTYtM2ViYy00MjE1LTg2NjYtNTUzMGUzYjc3MGYyXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+                                            "imageHeight": 453,
+                                            "imageWidth": 340,
+                                            "originalName": null,
+                                            "const": "tt0058796"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013540",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ira Cirker",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0162777"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Another World",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODAwNTEyNDYwNV5BMl5BanBnXkFtZTgwODc3NDAzNzE@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 361,
+                                            "originalName": null,
+                                            "const": "tt0057731"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013537",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "John Sedwick",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0781418"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Edge of Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjczY2UyZGMtZjBjYS00Y2QwLTk3NjctN2U4ZGI5ZDUwZjliXkEyXkFqcGdeQXVyMzkyOTQ0NzY@._V1_.jpg",
+                                            "imageHeight": 691,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0048860"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013541",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Joseph Behar",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0066875"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Days of Our Lives",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYxYmY4MTYtM2ViYy00MjE1LTg2NjYtNTUzMGUzYjc3MGYyXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+                                            "imageHeight": 453,
+                                            "imageWidth": 340,
+                                            "originalName": null,
+                                            "const": "tt0058796"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013539",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Paul E. Davis",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1871342"
+                                        },
+                                        {
+                                            "name": "Leonard Valenta",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0884037"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "As the World Turns",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIzMDE2NDU4Ml5BMl5BanBnXkFtZTcwNjQzMTczMQ@@._V1_.jpg",
+                                            "imageHeight": 605,
+                                            "imageWidth": 450,
+                                            "originalName": null,
+                                            "const": "tt0048845"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013538",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Director for a Daytime Variety Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Don Roy King",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc1MjAwODM4NV5BMl5BanBnXkFtZTcwMzYxNjI3Ng@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1596,
+                                            "const": "nm0454660"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Mike Douglas Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgyMjg4NjExMl5BMl5BanBnXkFtZTcwMDA0NTI2MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 343,
+                                            "originalName": null,
+                                            "const": "tt0170980"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Mike in Hollywood with Ray Charles and Michel Legrand\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Mike in Hollywood with Ray Charles and Michel Legrand"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013542",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dick Carson",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0141225"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Merv Griffin Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTM2MGIzNjktNTBlYy00YmYwLTlmMDQtOTZlZWE4NjcxNDdmXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+                                            "imageHeight": 974,
+                                            "imageWidth": 607,
+                                            "originalName": null,
+                                            "const": "tt0055691"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Merv Griffin in Israel\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Merv Griffin in Israel"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013545",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Glen Swanson",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1352017"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Dinah!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTMyN2RkMDEtMjVhNy00NzI5LTkwMmEtYTYyNGFjMTI5NmU3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0070982"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Dinah from Australia\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Dinah from Australia"
+                                    ],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013543",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "John Dorsey",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0234155"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Gong Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDA1Y2M3NjYtYzNkNi00NjQyLWFjODYtYWQ1NDQzMWEwNTI2XkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg",
+                                            "imageHeight": 300,
+                                            "imageWidth": 400,
+                                            "originalName": null,
+                                            "const": "tt0133303"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Daytime Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013544",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Director for a Game or Audience Participation Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mike Gargiulo",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0307368"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The $10,000 Pyramid",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzgyYTNlOWItNmVlYy00YTljLTljZTgtN2ZkMDM4MGIxYjI5XkEyXkFqcGdeQXVyOTE2NDEzOQ@@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0185049"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode with Tony Randall and Jo Anne Worley.",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013546",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Joseph Behar",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0066875"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Let's Make a Deal",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjUxNjMyZmUtYWE4Yi00Mzg2LWJkZmYtY2YyNjQ4ZmIyMGQwL2ltYWdlXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg",
+                                            "imageHeight": 790,
+                                            "imageWidth": 1000,
+                                            "originalName": null,
+                                            "const": "tt0056770"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Director for a Game or Audience Participation Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013547",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Talk, Service or Variety Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Merv Griffin Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTM2MGIzNjktNTBlYy00YmYwLTlmMDQtOTZlZWE4NjcxNDdmXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+                                            "imageHeight": 974,
+                                            "imageWidth": 607,
+                                            "originalName": null,
+                                            "const": "tt0055691"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Murphy",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1326158"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013493",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dinah!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTMyN2RkMDEtMjVhNy00NzI5LTkwMmEtYTYyNGFjMTI5NmU3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0070982"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Henry Jaffe",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0415446"
+                                        },
+                                        {
+                                            "name": "Carolyn Raskin",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0711228"
+                                        },
+                                        {
+                                            "name": "Fred Tatashore",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0851100"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013494",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gong Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDA1Y2M3NjYtYzNkNi00NjQyLWFjODYtYWQ1NDQzMWEwNTI2XkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_.jpg",
+                                            "imageHeight": 300,
+                                            "imageWidth": 400,
+                                            "originalName": null,
+                                            "const": "tt0133303"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Chuck Barris",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5NTc4ODc5OV5BMl5BanBnXkFtZTgwOTUxOTA4MTI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1556,
+                                            "const": "nm0057567"
+                                        },
+                                        {
+                                            "name": "Gene Banks",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0052157"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013495",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Mike Douglas Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgyMjg4NjExMl5BMl5BanBnXkFtZTcwMDA0NTI2MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 343,
+                                            "originalName": null,
+                                            "const": "tt0170980"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "David Salzman",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0759566"
+                                        },
+                                        {
+                                            "name": "Jack Reilly",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2763745"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Talk, Service or Variety Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013496",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ryan's Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmUwZGI1MWYtNTA2Yi00NzkyLWFjZDUtOWE3MjY3NjdlZDE2XkEyXkFqcGdeQXVyMjg0Mjg1MDM@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 688,
+                                            "originalName": null,
+                                            "const": "tt0072559"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Claire Labine",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDQxNjQyMTIyNV5BMl5BanBnXkFtZTgwNDAxNTg1MDI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1362,
+                                            "const": "nm0479525"
+                                        },
+                                        {
+                                            "name": "Paul Avila Mayer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0996410"
+                                        },
+                                        {
+                                            "name": "Mary Munisteri",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1012917"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013548",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "All My Children",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2YxZTUyODYtNjczMi00MDUwLTg3YTMtMGU2NjkzOWM5NGM3XkEyXkFqcGdeQXVyMTk5NDYxNDk@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0065272"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Agnes Nixon",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg2OTQwNl5BMl5BanBnXkFtZTYwNjYwNzQz._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 289,
+                                            "const": "nm0633202"
+                                        },
+                                        {
+                                            "name": "Wisner Washam",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0913330"
+                                        },
+                                        {
+                                            "name": "Kathryn McCabe",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm3103042"
+                                        },
+                                        {
+                                            "name": "Mary K. Wells",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0920345"
+                                        },
+                                        {
+                                            "name": "Jack Wood",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0939765"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013549",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Another World",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODAwNTEyNDYwNV5BMl5BanBnXkFtZTgwODc3NDAzNzE@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 361,
+                                            "originalName": null,
+                                            "const": "tt0057731"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Harding Lemay",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0501148"
+                                        },
+                                        {
+                                            "name": "Tom King",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0455340"
+                                        },
+                                        {
+                                            "name": "Peter Swet",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1802877"
+                                        },
+                                        {
+                                            "name": "Barry Berg",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2657592"
+                                        },
+                                        {
+                                            "name": "Jan Merlin",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjIyMDQ0ZjgtMWEzMi00NTUyLWJkMGMtZjgzZjY5YmMzOGI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 757,
+                                            "imageWidth": 600,
+                                            "const": "nm0581005"
+                                        },
+                                        {
+                                            "name": "Arthur Giron",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm3177652"
+                                        },
+                                        {
+                                            "name": "Kathy Callaway",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0130354"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013550",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "As the World Turns",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIzMDE2NDU4Ml5BMl5BanBnXkFtZTcwNjQzMTczMQ@@._V1_.jpg",
+                                            "imageHeight": 605,
+                                            "imageWidth": 450,
+                                            "originalName": null,
+                                            "const": "tt0048845"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Robert Soderberg",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0812026"
+                                        },
+                                        {
+                                            "name": "Edith Sommer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0813960"
+                                        },
+                                        {
+                                            "name": "Ralph Ellis",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0255034"
+                                        },
+                                        {
+                                            "name": "Eugenie Hunt",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1114256"
+                                        },
+                                        {
+                                            "name": "Theodore Apstein",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0032541"
+                                        },
+                                        {
+                                            "name": "Gillian Spencer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0817957"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013551",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Days of Our Lives",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTYxYmY4MTYtM2ViYy00MjE1LTg2NjYtNTUzMGUzYjc3MGYyXkEyXkFqcGdeQXVyNTkzNjEwMjI@._V1_.jpg",
+                                            "imageHeight": 453,
+                                            "imageWidth": 340,
+                                            "originalName": null,
+                                            "const": "tt0058796"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "William J. Bell",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0068589"
+                                        },
+                                        {
+                                            "name": "Patricia Falken Smith",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0989955"
+                                        },
+                                        {
+                                            "name": "Bill Rega",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0716358"
+                                        },
+                                        {
+                                            "name": "Kay Lenard",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0501694"
+                                        },
+                                        {
+                                            "name": "Margaret Stewart",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2657876"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing for a Daytime Drama Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Daytime Emmy",
+                                    "awardNominationId": "an0013552",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002060"
+                }
+            ],
+            "eventName": "Daytime Emmy Awards",
+            "eventEditionId": "ee0024201",
+            "occurrence": 1,
+            "eventId": "ev0000206",
+            "requestKey": {
+                "year": 1977,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000206"
+            },
+            "year": 1977
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

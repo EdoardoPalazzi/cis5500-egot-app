@@ -1,0 +1,2746 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Primetime Emmy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Outstanding Achievement in Art Direction and Scenic Design",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Checkmate",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzVlOTE1NWItZDIzMi00ZWM4LWJhNTEtNTViMjFkZGU4MWYxXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0053491"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "John J. Lloyd",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0516038"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Art Direction and Scenic Design",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167436",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Perry Como's Kraft Music Hall",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkwNDIzODkyNV5BMl5BanBnXkFtZTYwNTAxNjY5._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 306,
+                                            "originalName": "The Perry Como Show",
+                                            "const": "tt0040048"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Gary Smith",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0808278"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Art Direction and Scenic Design",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391343",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Twenty-Four Hours in a Woman's Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzBjMGM4MjUtNjYzYi00MzAzLWFhNDctNDliYjJmNGJmYjM0L2ltYWdlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0055553"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jac Venza",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0893477"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Art Direction and Scenic Design",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391342",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in Cinematography for Television",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Twilight Zone",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                                            "imageHeight": 761,
+                                            "imageWidth": 490,
+                                            "originalName": null,
+                                            "const": "tt0052520"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "George T. Clemens",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0166022"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Cinematography for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For various episodes.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167431",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Outlaws",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjdiYTMwMGYtNjA3NC00MWUxLTk2NWItMWEzNTJjNDAzM2I2XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+                                            "imageHeight": 818,
+                                            "imageWidth": 650,
+                                            "originalName": null,
+                                            "const": "tt0053527"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "William Margulies",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0546882"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Cinematography for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391344",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Wagon Train",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMDIxMzU1NF5BMl5BanBnXkFtZTcwMzk0MzcyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 346,
+                                            "originalName": null,
+                                            "const": "tt0050073"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Walter Strenge",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0834261"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Cinematography for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Sam Elder Story\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Sam Elder Story"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167432",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in Electronic Camerawork",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Bell Telephone Hour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY1MTgyMDc4M15BMl5BanBnXkFtZTcwMjA5ODUyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 354,
+                                            "originalName": null,
+                                            "const": "tt0052447"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in Electronic Camerawork",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Sounds of America\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Sounds of America"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167433",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Playhouse 90",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjllMTg0ZTYtNTRjNi00Y2ZiLWJjZmMtM2M4M2MzNDg4ZjMwXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+                                            "imageHeight": 1200,
+                                            "imageWidth": 834,
+                                            "originalName": null,
+                                            "const": "tt0048893"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in Electronic Camerawork",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391346",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Dinah Shore Chevy Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzkzMTUwNTUtMTgxOS00M2FjLWExZTktYzE4MTVlY2ZiMjcwXkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 680,
+                                            "originalName": null,
+                                            "const": "tt0043192"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in Electronic Camerawork",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391345",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Wrangler",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzg1MGMzMDYtN2IyZS00ZmQxLWExNGEtNGM3NDdkZGI2OTcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 384,
+                                            "imageWidth": 413,
+                                            "originalName": null,
+                                            "const": "tt0146392"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in Electronic Camerawork",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391347",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in Film Editing for Television",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Naked City",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWVjMDI0NGYtNDM2MC00OTIwLWE0ODQtNDM0OTNlOGZlMzJiXkEyXkFqcGdeQXVyMTk5OTk3MzQ@._V1_.jpg",
+                                            "imageHeight": 750,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0051297"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Harry Coswick",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0182746"
+                                        },
+                                        {
+                                            "name": "Aaron Nibley",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0629231"
+                                        },
+                                        {
+                                            "name": "Milton Shifman",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0793315"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Film Editing for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For various episodes.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167434",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Alfred Hitchcock Presents",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWQ1OGI0ZTItOTNkYi00NWFhLWE3ZWYtODVmMjkzMmM1NDYwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+                                            "imageHeight": 1426,
+                                            "imageWidth": 1000,
+                                            "originalName": null,
+                                            "const": "tt0047708"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Edward W. Williams",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0930515"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Film Editing for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Incident in a Small Jail\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Incident in a Small Jail"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167435",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Perry Mason",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjEzYmZkYWYtNjM2ZC00OTg0LWI5MWMtYWU0OWE3OTQ0N2M0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 346,
+                                            "originalName": null,
+                                            "const": "tt0050051"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Richard Cahoon",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0128735"
+                                        },
+                                        {
+                                            "name": "John Faure",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0269183"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in Film Editing for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391348",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "New York Philharmonic Young People's Concerts",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRjMTZiMDgtNGJkMi00OGRiLWI2ZWQtMTllYTE2YzVjYTkzXkEyXkFqcGdeQXVyMTk4NTIzMzI@._V1_.jpg",
+                                            "imageHeight": 1360,
+                                            "imageWidth": 855,
+                                            "originalName": null,
+                                            "const": "tt3776668"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For Aaron Copland Birthday Party (1961).",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0531005",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Captain Kangaroo",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzYzYmRjZmQtMWE1ZC00MTAwLTg4ODgtZmJlZDU5NTFlNmUzXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 1600,
+                                            "imageWidth": 1200,
+                                            "originalName": null,
+                                            "const": "tt0047718"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167391",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Shirley Temple's Storybook",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODUzNDQ0ZjktNzExYi00OTUxLTlmNjctMjAxYjc1MzU1NGExXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1536,
+                                            "originalName": null,
+                                            "const": "tt0051312"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167394",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Huckleberry Hound Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzhiNWJhMmMtOWQwZi00MWE1LThhOTQtODQyMzFkN2EzNTA2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+                                            "imageHeight": 902,
+                                            "imageWidth": 636,
+                                            "originalName": null,
+                                            "const": "tt0051283"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167392",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Shari Lewis Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxMDI5NjY5NF5BMl5BanBnXkFtZTcwNDY1NTIyMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 257,
+                                            "originalName": null,
+                                            "const": "tt0165595"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Achievement in the Field of Children's Programming",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167393",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in the Field of Music for Television",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Leonard Bernstein and the New York Philharmonic in Berlin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0345563"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Leonard Bernstein",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NzMwODg2MF5BMl5BanBnXkFtZTYwNDY2NzU2._V1_.jpg",
+                                            "imageHeight": 320,
+                                            "imageWidth": 420,
+                                            "const": "nm0077086"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in the Field of Music for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Official ATAS records list title as \"Leonard Bernstein and the New York Philharmonic\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392955",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Donald O'Connor Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjkzZDc0YzMtMDU2My00MTMwLWI5ZDUtNjlhODM2NzBmNjQ2XkEyXkFqcGdeQXVyMzU4MDE5MTc@._V1_.jpg",
+                                            "imageHeight": 661,
+                                            "imageWidth": 468,
+                                            "originalName": null,
+                                            "const": "tt0046594"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9 Previn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTAyODUwNl5BMl5BanBnXkFtZTcwMzEzMTQzNw@@._V1_.jpg",
+                                            "imageHeight": 335,
+                                            "imageWidth": 500,
+                                            "const": "nm0006238"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in the Field of Music for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167438",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Thriller",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTFjM2E3ZDYtNTIzZi00YTdlLWIwYTYtMmVlMDM0ZjhjYzZjXkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_.jpg",
+                                            "imageHeight": 1022,
+                                            "imageWidth": 793,
+                                            "originalName": null,
+                                            "const": "tt0053546"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Pete Rugolo",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDgxYzYzMDMtNTQ4OS00Njk5LWFjZGQtMzI5YmUyYmMzNDUxXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+                                            "imageHeight": 956,
+                                            "imageWidth": 1024,
+                                            "const": "nm0006266"
+                                        },
+                                        {
+                                            "name": "Jerry Goldsmith",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM3ODQwNTQ1OF5BMl5BanBnXkFtZTgwNjU2MjczMDI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1172,
+                                            "const": "nm0000025"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in the Field of Music for Television",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167439",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Directorial Achievement in Comedy",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sheldon Leonard",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyODQyMF5BMl5BanBnXkFtZTcwNDY5MTY5Ng@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 410,
+                                            "const": "nm0502766"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Danny Thomas Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4OTQzMjQ2NF5BMl5BanBnXkFtZTcwMDg0MjE2MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 345,
+                                            "originalName": "Make Room for Daddy",
+                                            "const": "tt0045410"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167420",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dick McDonough",
+                                            "note": "(director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0568150"
+                                        },
+                                        {
+                                            "name": "Jack Shea",
+                                            "note": "(director)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk2MjQwNzY1OF5BMl5BanBnXkFtZTYwNzk1Nzcz._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 286,
+                                            "const": "nm0790281"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Bob Hope Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc2OTMwMDk0N15BMl5BanBnXkFtZTcwNTIzNjEyMQ@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 475,
+                                            "originalName": null,
+                                            "const": "tt0045373"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391349",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Peter Tewksbury",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0856715"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "My Three Sons",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTc3NDAyODctNDBiNC00YjQ2LTk3YjEtYzk1ZDIzOGQ3MDBiXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg",
+                                            "imageHeight": 750,
+                                            "imageWidth": 531,
+                                            "originalName": null,
+                                            "const": "tt0053525"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167421",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Directorial Achievement in Drama",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "George Schaefer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0769615"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Macbeth",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc4NTcyNjUyNF5BMl5BanBnXkFtZTYwMzkxMjg5._V1_.jpg",
+                                            "imageHeight": 223,
+                                            "imageWidth": 150,
+                                            "originalName": null,
+                                            "const": "tt0055112"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0497261",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ralph Nelson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDg2MWUzOWUtYzk2OS00MTNiLWI1YTktNjVhNWQ1YzVkNzQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 1306,
+                                            "imageWidth": 1086,
+                                            "const": "nm0625680"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Westinghouse Desilu Playhouse",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWRjMTRiYTQtMDY1Yi00OTNkLWI4NGUtYjk2ODcxNDdmN2M3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 325,
+                                            "imageWidth": 432,
+                                            "originalName": null,
+                                            "const": "tt0051328"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Man in the Funny Suit\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Man in the Funny Suit"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167419",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sidney Lumet",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4Mzk5Mzk4Ml5BMl5BanBnXkFtZTYwMTE2NDg0._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 276,
+                                            "const": "nm0001486"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Sunday Showcase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTk1NTUwMV5BMl5BanBnXkFtZTcwODIyNzkyMg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0052512"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Directorial Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Sacco-Vanzetti Story: Part 1\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Sacco-Vanzetti Story: Part 1"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167418",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Performance by an Actor in a Series (Lead)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Raymond Burr",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDUzNzJjMjctY2NkMS00OWFlLWIzMzktNjU4YWU1ZmMzNmUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                                            "imageHeight": 3000,
+                                            "imageWidth": 2400,
+                                            "const": "nm0000994"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Perry Mason",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjEzYmZkYWYtNjM2ZC00OTg0LWI5MWMtYWU0OWE3OTQ0N2M0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 346,
+                                            "originalName": null,
+                                            "const": "tt0050051"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actor in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167404",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jackie Cooper",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNjYwOTY4Ml5BMl5BanBnXkFtZTcwNjU0MDYwMw@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "const": "nm0178114"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Hennesey",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0052473"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actor in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167405",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Robert Stack",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTM3ZjIwNGEtNjE2ZS00M2UwLWEzYTMtYTMxNDM0YjU1MWFlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 1809,
+                                            "imageWidth": 1367,
+                                            "const": "nm0821041"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Untouchables",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWVkM2MwMzktZmZlMi00ODY1LWE4MGEtNjI4YWZmMjRhNjI2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0052522"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actor in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167406",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Performance by an Actress in a Series (Lead)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Barbara Stanwyck",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmMyY2QzNWMtZDBmZi00OWRjLWJjNzEtYzNkOGU3OGIwNTMyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 3713,
+                                            "imageWidth": 3040,
+                                            "const": "nm0001766"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Barbara Stanwyck Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjI2NDI0NjI0M15BMl5BanBnXkFtZTcwMDU3MzE4Mg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 373,
+                                            "originalName": null,
+                                            "const": "tt0053483"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actress in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167407",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Donna Reed",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVlZWNhODQtYzUwMS00MWQ4LWIyMjUtYTU0M2E2ODYwM2VkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 2800,
+                                            "imageWidth": 2266,
+                                            "const": "nm0001656"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Donna Reed Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1ODM4MDMyM15BMl5BanBnXkFtZTcwNjQxODA4MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 332,
+                                            "originalName": null,
+                                            "const": "tt0051267"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actress in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167408",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Loretta Young",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTAxNzIwMjY1NTBeQTJeQWpwZ15BbWU4MDg1Njk2OTAy._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1583,
+                                            "const": "nm0949835"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Loretta Young Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MjQ4NDQ5MV5BMl5BanBnXkFtZTcwMTI0NjMyMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 259,
+                                            "originalName": "Letter to Loretta",
+                                            "const": "tt0045409"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance by an Actress in a Series (Lead)",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167409",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Don Knotts",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEwNTkzODQ0MF5BMl5BanBnXkFtZTcwNzQxOTQ3MQ@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1333,
+                                            "const": "nm0461455"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Andy Griffith Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzU4OTU2MDAxM15BMl5BanBnXkFtZTcwMzI4MjQ0MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0053479"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167410",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Abby Dalton",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTgzNzcwODc0NV5BMl5BanBnXkFtZTgwNTQ2MzU2MjE@._V1_.jpg",
+                                            "imageHeight": 375,
+                                            "imageWidth": 500,
+                                            "const": "nm0198231"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Hennesey",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0052473"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167411",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Barbara Hale",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0ODM3MjU4Ml5BMl5BanBnXkFtZTcwMTgwMDgxOA@@._V1_.jpg",
+                                            "imageHeight": 1322,
+                                            "imageWidth": 2048,
+                                            "const": "nm0354853"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Perry Mason",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjEzYmZkYWYtNjM2ZC00OTg0LWI5MWMtYWU0OWE3OTQ0N2M0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 346,
+                                            "originalName": null,
+                                            "const": "tt0050051"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167412",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Single Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Roddy McDowall",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2NjI3NzE1OV5BMl5BanBnXkFtZTYwNjk2MzU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 294,
+                                            "const": "nm0001522"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Sunday Showcase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTk1NTUwMV5BMl5BanBnXkFtZTcwODIyNzkyMg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0052512"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Single Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Our American Heritage: Not Without Honor\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Our American Heritage: Not Without Honor"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167413",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Charles Bronson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWNlYzczNjItMjRlZi00MjE3LWJlYzctYzcyYTlkM2U5YzMzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 4080,
+                                            "imageWidth": 3063,
+                                            "const": "nm0000314"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "General Electric Theater",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGMwNjA4YzEtZjI4ZS00OGE5LWI5MmItYjRlNWY2YmMxMzU4XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1026,
+                                            "originalName": null,
+                                            "const": "tt0045395"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Single Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Memory in White\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Memory in White"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167414",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Peter Falk",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODUwNDE3MF5BMl5BanBnXkFtZTYwMjA1NTM0._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 266,
+                                            "const": "nm0000393"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Law and Mr. Jones",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDM0MGRkZTEtZTBlYS00NjJlLThiYmEtMDQzNDJlNjNkZjI3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 403,
+                                            "imageWidth": 504,
+                                            "originalName": null,
+                                            "const": "tt0053517"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Supporting Role by an Actor or Actress in a Single Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Cold Turkey\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Cold Turkey"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167415",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Performance in a Variety or Musical Program or Series",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Astaire Time",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM0MTA3ODcyMF5BMl5BanBnXkFtZTcwOTI3NDExMw@@._V1_.jpg",
+                                            "imageHeight": 2749,
+                                            "imageWidth": 2155,
+                                            "originalName": null,
+                                            "const": "tt0857198"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Fred Astaire",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Y0ODZjYjMtNzY4OC00MGY4LWJmOTMtMjUxZmY0OGExZWQ4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+                                            "imageHeight": 3565,
+                                            "imageWidth": 2818,
+                                            "const": "nm0000001"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Variety or Musical Program or Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391350",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Belafonte, New York 19",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt1204407"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Harry Belafonte",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4MTEzNjA1NF5BMl5BanBnXkFtZTcwMzgxMDUwMg@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 301,
+                                            "const": "nm0000896"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Variety or Musical Program or Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391351",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Dinah Shore Chevy Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzkzMTUwNTUtMTgxOS00M2FjLWExZTktYzE4MTVlY2ZiMjcwXkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 680,
+                                            "originalName": null,
+                                            "const": "tt0043192"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Dinah Shore",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzU5NTUyNzc0M15BMl5BanBnXkFtZTYwMzk2ODM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 343,
+                                            "const": "nm0794918"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Performance in a Variety or Musical Program or Series",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0396201",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Macbeth",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc4NTcyNjUyNF5BMl5BanBnXkFtZTYwMzkxMjg5._V1_.jpg",
+                                            "imageHeight": 223,
+                                            "imageWidth": 150,
+                                            "originalName": null,
+                                            "const": "tt0055112"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0497264",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Naked City",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWVjMDI0NGYtNDM2MC00OTIwLWE0ODQtNDM0OTNlOGZlMzJiXkEyXkFqcGdeQXVyMTk5OTk3MzQ@._V1_.jpg",
+                                            "imageHeight": 750,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0051297"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167371",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sunday Showcase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTk1NTUwMV5BMl5BanBnXkFtZTcwODIyNzkyMg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0052512"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Sacco-Vanzetti Story: Part 1\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Sacco-Vanzetti Story: Part 1"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167372",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Twilight Zone",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                                            "imageHeight": 761,
+                                            "imageWidth": 490,
+                                            "originalName": null,
+                                            "const": "tt0052520"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167373",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Untouchables",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWVkM2MwMzktZmZlMi00ODY1LWE4MGEtNjI4YWZmMjRhNjI2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0052522"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167374",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Jack Benny Program",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ0MjgzMzkyOV5BMl5BanBnXkFtZTcwMDQ1MzU1MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0042116"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167375",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Candid Camera",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTVhODBhNWQtMWYyZS00NGRjLWI4ODktMzczM2Y0NGMyYzI2XkEyXkFqcGdeQXVyNTEyOTE0MTU@._V1_.jpg",
+                                            "imageHeight": 858,
+                                            "imageWidth": 526,
+                                            "originalName": null,
+                                            "const": "tt0053489"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167377",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Andy Griffith Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzU4OTU2MDAxM15BMl5BanBnXkFtZTcwMzI4MjQ0MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0053479"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167376",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Bob Hope Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc2OTMwMDk0N15BMl5BanBnXkFtZTcwNTIzNjEyMQ@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 475,
+                                            "originalName": null,
+                                            "const": "tt0045373"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391352",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Flintstones",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmYxZjE2MDYtYTQ2OC00NmUwLTkzNDEtNjFkZmEyM2E5ODBmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+                                            "imageHeight": 3341,
+                                            "imageWidth": 2497,
+                                            "originalName": null,
+                                            "const": "tt0053502"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Humor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167378",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievement in the Field of News",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Huntley-Brinkley Report",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTY2NGFiNDYtZmI2Yi00MjI0LThhNjQtNTA4NDk1YzdkNTIxXkEyXkFqcGdeQXVyMTUyNjk1NDU@._V1_.jpg",
+                                            "imageHeight": 875,
+                                            "imageWidth": 689,
+                                            "originalName": null,
+                                            "const": "tt0275133"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of News",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167382",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Douglas Edwards with the News",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": "CBS Television News",
+                                            "const": "tt0927228"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of News",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167383",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Eyewitness to History",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": "Eyewitness",
+                                            "const": "tt0346258"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of News",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167384",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "National Broadcasting Company (NBC)",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "co0072315"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of News",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For coverage of the 1960 political conventions.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392957",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Twentieth Century",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1ODEyMDU2OV5BMl5BanBnXkFtZTYwNzg3Njc5._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 258,
+                                            "originalName": null,
+                                            "const": "tt0050072"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167385",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "CBS Reports",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEyYmM3ODQtNGU5Ny00NTVlLTg3MjEtMjlmNzdlYzQ5OWQ1XkEyXkFqcGdeQXVyOTY5MDIwMjA@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 2560,
+                                            "originalName": null,
+                                            "const": "tt0319967"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167386",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "NBC White Paper",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0943525"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The U-2 Affair\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The U-2 Affair"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167387",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Project Twenty",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzNjkxNjM1Nl5BMl5BanBnXkFtZTgwNTU0OTc5MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 366,
+                                            "originalName": null,
+                                            "const": "tt0926182"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167388",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Winston Churchill: The Valiant Years",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0053548"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Public Service",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167389",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Astaire Time",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM0MTA3ODcyMF5BMl5BanBnXkFtZTcwOTI3NDExMw@@._V1_.jpg",
+                                            "imageHeight": 2749,
+                                            "imageWidth": 2155,
+                                            "originalName": null,
+                                            "const": "tt0857198"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167379",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "An Hour with Danny Kaye",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTNjNjExNjUtZDNjZS00MmQyLWJlZTUtZmFkN2M3NGZlZTM0XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg",
+                                            "imageHeight": 1596,
+                                            "imageWidth": 1266,
+                                            "originalName": null,
+                                            "const": "tt2178994"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393750",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Belafonte, New York 19",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt1204407"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0391353",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Garry Moore Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdkMjMyOGItOTMzOC00NTUxLWIzZTQtOTY3Y2FhZWY3Nzc4XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 317,
+                                            "imageWidth": 450,
+                                            "originalName": null,
+                                            "const": "tt0051276"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167380",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Tonight Show Starring Jack Paar",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4MDQxNDQxN15BMl5BanBnXkFtZTcwNDA3MTUyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 370,
+                                            "originalName": "Tonight Starring Jack Paar",
+                                            "const": "tt0050030"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Program Achievement in the Field of Variety",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167381",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Single Performance by an Actor in a Leading Role",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Maurice Evans",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4MzE4NDY3Nl5BMl5BanBnXkFtZTcwMjAyNDIzOA@@._V1_.jpg",
+                                            "imageHeight": 875,
+                                            "imageWidth": 638,
+                                            "const": "nm0263052"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Macbeth",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc4NTcyNjUyNF5BMl5BanBnXkFtZTYwMzkxMjg5._V1_.jpg",
+                                            "imageHeight": 223,
+                                            "imageWidth": 150,
+                                            "originalName": null,
+                                            "const": "tt0055112"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For playing \"Macbeth\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0497262",
+                                    "characterNames": [
+                                        "Macbeth"
+                                    ],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cliff Robertson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2Nzc1MzM0Ml5BMl5BanBnXkFtZTYwNTA0ODk1._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 274,
+                                            "const": "nm0731772"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The United States Steel Hour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjk5Y2VlOTUtYmVkNy00NzZmLWJiNmUtZDcxODNmZTA5NWUzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                                            "imageHeight": 490,
+                                            "imageWidth": 348,
+                                            "originalName": null,
+                                            "const": "tt0045449"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Two Worlds of Charlie Gordon\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Two Worlds of Charlie Gordon"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167399",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ed Wynn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1NzIyMjIyOF5BMl5BanBnXkFtZTYwMTIxMDI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 413,
+                                            "const": "nm0943956"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Westinghouse Desilu Playhouse",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWRjMTRiYTQtMDY1Yi00OTNkLWI4NGUtYjk2ODcxNDdmN2M3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 325,
+                                            "imageWidth": 432,
+                                            "originalName": null,
+                                            "const": "tt0051328"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Man in the Funny Suit\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Man in the Funny Suit"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167400",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Single Performance by an Actress in a Leading Role",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Judith Anderson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NTA4Mzk3Ml5BMl5BanBnXkFtZTYwNzQ2MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 347,
+                                            "const": "nm0000752"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Macbeth",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc4NTcyNjUyNF5BMl5BanBnXkFtZTYwMzkxMjg5._V1_.jpg",
+                                            "imageHeight": 223,
+                                            "imageWidth": 150,
+                                            "originalName": null,
+                                            "const": "tt0055112"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For playing \"Lady Macbeth\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0497263",
+                                    "characterNames": [
+                                        "Lady Macbeth"
+                                    ],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Elizabeth Montgomery",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTRiOThjZWUtYmM0MS00ZmMzLTlhOWQtNDUzNmY4M2E1OTI2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 4817,
+                                            "imageWidth": 3600,
+                                            "const": "nm0000548"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Untouchables",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWVkM2MwMzktZmZlMi00ODY1LWE4MGEtNjI4YWZmMjRhNjI2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0052522"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Rusty Heller Story\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Rusty Heller Story"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167402",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ingrid Bergman",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQyMTYxODQzMF5BMl5BanBnXkFtZTgwMDA1MTI2NDM@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1671,
+                                            "const": "nm0000006"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Twenty-Four Hours in a Woman's Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzBjMGM4MjUtNjYzYi00MzAzLWFhNDctNDliYjJmNGJmYjM0L2ltYWdlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0055553"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Single Performance by an Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167403",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Writing Achievement in Comedy",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Red Skelton Hour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMyMzA4NDQ5N15BMl5BanBnXkFtZTcwNTAyNjQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 348,
+                                            "originalName": "The Red Skelton Show",
+                                            "const": "tt0043224"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Sherwood Schwartz",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTUwOTA3MV5BMl5BanBnXkFtZTcwOTU5NDI5NQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 395,
+                                            "const": "nm0777442"
+                                        },
+                                        {
+                                            "name": "Dave O'Brien",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjczNDQxNzY2NV5BMl5BanBnXkFtZTcwMDY4OTUyMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 338,
+                                            "const": "nm0639495"
+                                        },
+                                        {
+                                            "name": "Al Schwartz",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0777129"
+                                        },
+                                        {
+                                            "name": "Martin Ragaway",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0706417"
+                                        },
+                                        {
+                                            "name": "Red Skelton",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1OTEwOTYwM15BMl5BanBnXkFtZTYwOTEzMzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 374,
+                                            "const": "nm0804026"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167425",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Hennesey",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0052473"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Richard Baer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0046379"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For various episodes.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167427",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Danny Thomas Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4OTQzMjQ2NF5BMl5BanBnXkFtZTcwMDg0MjE2MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 345,
+                                            "originalName": "Make Room for Daddy",
+                                            "const": "tt0045410"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Charles Stewart",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0829264"
+                                        },
+                                        {
+                                            "name": "Jack Elinson",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0253631"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167426",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Writing Achievement in Drama",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Twilight Zone",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAzMDI5MzgtMGNkMC00MzllLWJhNjctNjA1NmViNGUxMzYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                                            "imageHeight": 761,
+                                            "imageWidth": 490,
+                                            "originalName": null,
+                                            "const": "tt0052520"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Rod Serling",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY3OTU5NjMwMV5BMl5BanBnXkFtZTcwODYwNDMzMQ@@._V1_.jpg",
+                                            "imageHeight": 567,
+                                            "imageWidth": 450,
+                                            "const": "nm0785245"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For various episodes.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167422",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sunday Showcase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTk1NTUwMV5BMl5BanBnXkFtZTcwODIyNzkyMg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0052512"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Reginald Rose",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGY1NWMxNzAtMDFlMi00OWI5LTg0ZDctZDE2OTQ0YjZjNTFjXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                            "imageHeight": 403,
+                                            "imageWidth": 377,
+                                            "const": "nm0741627"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Sacco-Vanzetti Story: Part 1\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Sacco-Vanzetti Story: Part 1"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167424",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The DuPont Show of the Month",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmNlZDVjYzktZWY0Zi00ZjJkLTlmZTMtZWI0YmM0OTMyMGNjXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 279,
+                                            "imageWidth": 360,
+                                            "originalName": null,
+                                            "const": "tt0050013"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Dale Wasserman",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0913670"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in Drama",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Lincoln Murder Case\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Lincoln Murder Case"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167423",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Writing Achievement in the Documentary Field",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Winston Churchill: The Valiant Years",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0053548"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Victor Wolfson",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0938445"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in the Documentary Field",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167428",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "CBS Reports",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEyYmM3ODQtNGU5Ny00NTVlLTg3MjEtMjlmNzdlYzQ5OWQ1XkEyXkFqcGdeQXVyOTY5MDIwMjA@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 2560,
+                                            "originalName": null,
+                                            "const": "tt0319967"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Fred W. Friendly",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTQ5NWRmNzEtZTI1Ny00NzZmLTg4ZmEtM2QzNWE4ODdkYjI1XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+                                            "imageHeight": 480,
+                                            "imageWidth": 720,
+                                            "const": "nm0295562"
+                                        },
+                                        {
+                                            "name": "David Lowe",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1807832"
+                                        },
+                                        {
+                                            "name": "Edward R. Murrow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWFlNmI5YmItMWUzZC00ZGI3LWIzMjMtNzJhNWUwYWI2ODRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 700,
+                                            "imageWidth": 925,
+                                            "const": "nm0615386"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in the Documentary Field",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Harvest of Shame\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Harvest of Shame"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167429",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "NBC White Paper",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0943525"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Arthur Barron",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0057634"
+                                        },
+                                        {
+                                            "name": "Al Wasserman",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0913666"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Writing Achievement in the Documentary Field",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The U-2 Affair\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The U-2 Affair"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167430",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "The Program of the Year",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Macbeth",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjc4NTcyNjUyNF5BMl5BanBnXkFtZTYwMzkxMjg5._V1_.jpg",
+                                            "imageHeight": 223,
+                                            "imageWidth": 150,
+                                            "originalName": null,
+                                            "const": "tt0055112"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Phil C. Samuel",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0760414"
+                                        },
+                                        {
+                                            "name": "George Schaefer",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0769615"
+                                        }
+                                    ],
+                                    "categoryName": "The Program of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0497265",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "An Hour with Danny Kaye",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTNjNjExNjUtZDNjZS00MmQyLWJlZTUtZmFkN2M3NGZlZTM0XkEyXkFqcGdeQXVyMzUwNDIxMjQ@._V1_.jpg",
+                                            "imageHeight": 1596,
+                                            "imageWidth": 1266,
+                                            "originalName": null,
+                                            "const": "tt2178994"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "The Program of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393751",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Astaire Time",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM0MTA3ODcyMF5BMl5BanBnXkFtZTcwOTI3NDExMw@@._V1_.jpg",
+                                            "imageHeight": 2749,
+                                            "imageWidth": 2155,
+                                            "originalName": null,
+                                            "const": "tt0857198"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "The Program of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167396",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "National Broadcasting Company (NBC)",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "co0072315"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "The Program of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For coverage of the 1960 political conventions.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392956",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sunday Showcase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcyMTk1NTUwMV5BMl5BanBnXkFtZTcwODIyNzkyMg@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0052512"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "The Program of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Sacco-Vanzetti Story: Part 1\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Sacco-Vanzetti Story: Part 1"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167397",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002214"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000223",
+            "requestKey": {
+                "year": 1961,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000223"
+            },
+            "eventEditionId": "ee0034471",
+            "eventName": "Primetime Emmy Awards",
+            "year": 1961
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

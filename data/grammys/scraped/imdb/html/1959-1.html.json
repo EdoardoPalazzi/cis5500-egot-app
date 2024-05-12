@@ -1,0 +1,2628 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Grammy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Album of the Year",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Henry Mancini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2Njc4MDAxOF5BMl5BanBnXkFtZTcwODMyNzMzOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1418,
+                                            "const": "nm0000049"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Album of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the album \"The Music from Peter Gunn.\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640395",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Sinatra",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTYzMzM2ODgzM15BMl5BanBnXkFtZTYwOTc5MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 304,
+                                            "const": "nm0000069"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Album of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Only The Lonely\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334984",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Sinatra",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTYzMzM2ODgzM15BMl5BanBnXkFtZTYwOTc5MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 304,
+                                            "const": "nm0000069"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Album of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Come Fly With Me\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334983",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Van Cliburn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODA5MDYxMTE5MV5BMl5BanBnXkFtZTcwNjAzMzcxOQ@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1455,
+                                            "const": "nm0166563"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Album of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Tchaikovsky: Concerto No. 1, In B-Flat Minor, Op.23\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1355411",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Album Cover",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Album Cover",
+                                    "winAnnouncementTime": 1565105473,
+                                    "notes": "For \"Only the Lonely\" artist: Frank Sinatra",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211088",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Marvin Schwartz",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0777360"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Album Cover",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Come Fly With Me\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1353721",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Arrangement",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Henry Mancini",
+                                            "note": "(artist/arranger)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2Njc4MDAxOF5BMl5BanBnXkFtZTcwODMyNzMzOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1418,
+                                            "const": "nm0000049"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Arrangement",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"The Music From Peter Gunn\" artist: Henry Mancini",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255822",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Billy May",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0561877"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Arrangement",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Billy May's Big Fat Brass\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1359181",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Billy May",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0561877"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Arrangement",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Come Fly With Me\" artist: Frank Sinatra",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1359180",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nelson Riddle",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0ODI3NjktYzA4NC00NGNiLThmMzItODU2ZWNjOWNkMjEzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 352,
+                                            "const": "nm0725765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Arrangement",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Witchcraft\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1345880",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Chamber Music (Including Chamber Orchestra)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Hollywood String Quartet",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2478197"
+                                        },
+                                        {
+                                            "name": "Paul Shure",
+                                            "note": "(artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0795930"
+                                        },
+                                        {
+                                            "name": "Alvin Dinkin",
+                                            "note": "(artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10896452"
+                                        },
+                                        {
+                                            "name": "Eleanor Slatkin",
+                                            "note": "(artist) (as Eleanor Aller Slatkin)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5910649"
+                                        },
+                                        {
+                                            "name": "Felix Slatkin",
+                                            "note": "(artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm6957934"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Chamber Music (Including Chamber Orchestra)",
+                                    "winAnnouncementTime": 1565260182,
+                                    "notes": "For \"Beethoven: Quartet 130\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211849",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Eugene Istomin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1181496"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Chamber Music (Including Chamber Orchestra)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Beethoven: Trio In E Flat And Trio In D Major\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1361685",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gregor Piatigorsky",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjgwZmQ2NmEtODFkYy00NjE2LThkMTAtMzg0ODY5YjU4MGIwXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+                                            "imageHeight": 769,
+                                            "imageWidth": 1024,
+                                            "const": "nm0681290"
+                                        },
+                                        {
+                                            "name": "Jascha Heifetz",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2MTA2NDUxN15BMl5BanBnXkFtZTYwMTcyNjI2._V1_.jpg",
+                                            "imageHeight": 315,
+                                            "imageWidth": 450,
+                                            "const": "nm0374011"
+                                        },
+                                        {
+                                            "name": "William Primrose",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5571250"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Chamber Music (Including Chamber Orchestra)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Beethoven: Trio In G, Op. 9, No. 1; Beethoven Trio In C Minor, Op. 9, No. 3\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1342909",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gregor Piatigorsky",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjgwZmQ2NmEtODFkYy00NjE2LThkMTAtMzg0ODY5YjU4MGIwXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+                                            "imageHeight": 769,
+                                            "imageWidth": 1024,
+                                            "const": "nm0681290"
+                                        },
+                                        {
+                                            "name": "Jascha Heifetz",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2MTA2NDUxN15BMl5BanBnXkFtZTYwMTcyNjI2._V1_.jpg",
+                                            "imageHeight": 315,
+                                            "imageWidth": 450,
+                                            "const": "nm0374011"
+                                        },
+                                        {
+                                            "name": "William Primrose",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5571250"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Chamber Music (Including Chamber Orchestra)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Beethoven: Trio In E Flat, Op. 3\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1342908",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Instrumentalist (Other Than Concerto Scale Accompaniment)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9s Segovia",
+                                            "note": "(artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0782074"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (Other Than Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Segovia Golden Jubilee\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255819",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9s Segovia",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0782074"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (Other Than Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": 1565259981,
+                                    "notes": "For \"Segovia Golden Jubilee\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211847",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nathan Milstein",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1181949"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (Other Than Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Beethoven: Sonata No. 9 And Sonata No. 8\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1445333",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Vladimir Horowitz",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0395332"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (Other Than Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Horowitz Plays Chopin (Album)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334097",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Instrumentalist (with Concerto Scale Accompaniment)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Van Cliburn",
+                                            "note": "(piano) (artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODA5MDYxMTE5MV5BMl5BanBnXkFtZTcwNjAzMzcxOQ@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1455,
+                                            "const": "nm0166563"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (with Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": 1565259908,
+                                    "notes": "For \"Tchaikovsky: Piano Concerto No. 1 In B Flat Minor, Op. 23\" artist: Symphony Of The Air Orchestra",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211846",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Artur Rubinstein",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2UyYjU2YjktNzkyNS00Y2Q2LTljNDEtZWQ5NWMwYTg3NTNkL2ltYWdlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                                            "imageHeight": 672,
+                                            "imageWidth": 882,
+                                            "const": "nm0748256"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (with Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Saint-Saens: Piano Concerto # 2\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1337541",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Isaac Stern",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0827716"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Instrumentalist (with Concerto Scale Accompaniment)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Bart\u00f3k: Concerto For Violin\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1338187",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Operatic or Choral",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Robert Wagner",
+                                            "note": "(choir director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm7666612"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Operatic or Choral",
+                                    "winAnnouncementTime": 1565260435,
+                                    "notes": "For \"Virtuoso\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211851",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Erich Leinsdorf",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1257681"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Operatic or Choral",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Donizetti: Lucia De Lammermoor\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1339169",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Erich Leinsdorf",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1257681"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Operatic or Choral",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Puccini: Madam Butterfly\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1339168",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Maria Callas",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2OTE5MDQzM15BMl5BanBnXkFtZTYwMzExNDM2._V1_.jpg",
+                                            "imageHeight": 420,
+                                            "imageWidth": 320,
+                                            "const": "nm0006568"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Operatic or Choral",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Barber Of Seville (Album)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1428576",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Orchestra",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Felix Slatkin",
+                                            "note": "(conductor) (artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm6957934"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Orchestra",
+                                    "winAnnouncementTime": 1565259787,
+                                    "notes": "For \"Gaiete Parisienne\" artist: Hollywood Bowl Orchestra",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211845",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Charles Munch",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10896489"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Orchestra",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Barber: Meditation And Dance Of Vengeance\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1361260",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Leonard Bernstein",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NzMwODg2MF5BMl5BanBnXkFtZTYwNDY2NzU2._V1_.jpg",
+                                            "imageHeight": 320,
+                                            "imageWidth": 420,
+                                            "const": "nm0077086"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Orchestra",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Stravinsky: Le Sacre Du Printemps\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334661",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Classical Performance, Vocal Soloist (With or Without Orchestra)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Renata Tebaldi",
+                                            "note": "(soprano) (artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTBlNWE5Y2MtMmI5Ni00NWUzLTg4YjMtNDJiYTZmNWJlYzcxXkEyXkFqcGdeQXVyMTA2NDgyNA@@._V1_.jpg",
+                                            "imageHeight": 1377,
+                                            "imageWidth": 1080,
+                                            "const": "nm0853636"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Vocal Soloist (With or Without Orchestra)",
+                                    "winAnnouncementTime": 1565260263,
+                                    "notes": "For \"Operatic Recital\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211850",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Maria Callas",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2OTE5MDQzM15BMl5BanBnXkFtZTYwMzExNDM2._V1_.jpg",
+                                            "imageHeight": 420,
+                                            "imageWidth": 320,
+                                            "const": "nm0006568"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Vocal Soloist (With or Without Orchestra)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Cherubini: Medea (Album)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1428575",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Salli Terri",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm8629592"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Classical Performance, Vocal Soloist (With or Without Orchestra)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Duets For Spanish Guitar\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1372247",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Comedy Performance",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ross Bagdasarian",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdhMWUyZWEtOGNiZi00NzdmLWI0ODItNzRjM2VjY2ZlZjZhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 350,
+                                            "const": "nm0046564"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedy Performance",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"The Chipmunk Song\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255825",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedy Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"The Chipmunk Song (Christmas Don't Be Late)\" artist: Ross Bagdasarian, Sr.",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "The Chipmunk Song (Christmas Don't Be Late)"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0744710",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Elaine May",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA3NzE5MzIwNV5BMl5BanBnXkFtZTcwMDA0MDYwMw@@._V1_.jpg",
+                                            "imageHeight": 338,
+                                            "imageWidth": 500,
+                                            "const": "nm0561938"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedy Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Improvisations To Music\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1363299",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Stan Freberg",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MjE4NDYxNF5BMl5BanBnXkFtZTcwNzAxMzkwOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1433,
+                                            "const": "nm0292677"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedy Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Green Christmas\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1346647",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Stan Freberg",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MjE4NDYxNF5BMl5BanBnXkFtZTcwNzAxMzkwOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1433,
+                                            "const": "nm0292677"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedy Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Best Of The Stan Freberg Shows\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1346646",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Country & Western Performance",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Kingston Trio",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWYxYjU3ODQtM2RjOS00ODYyLTlkYmMtMDJiZjY5OGM5YTE5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1292,
+                                            "imageWidth": 2012,
+                                            "const": "nm1300323"
+                                        },
+                                        {
+                                            "name": "Dave Guard",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDAyZTM5MzMtMzQ0Yy00MTQxLWIzZjMtNDg0ZGZhMjNlNTlmXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1514,
+                                            "imageWidth": 1072,
+                                            "const": "nm1305066"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Country & Western Performance",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Tom Dooley\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255824",
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Country and Western Performance",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Kingston Trio",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWYxYjU3ODQtM2RjOS00ODYyLTlkYmMtMDJiZjY5OGM5YTE5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1292,
+                                            "imageWidth": 2012,
+                                            "const": "nm1300323"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Country and Western Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Tom Dooley.\"",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "Tom Dooley."
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640401",
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Engineered Record (Classical)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sherwood Hall III",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891404"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record (Classical)",
+                                    "winAnnouncementTime": 1565105220,
+                                    "notes": "For \"Duets with a Spanish Guitar\" artist: Laurindo Almeida and Salli Terri",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211087",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sherwood Hall III",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891404"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record (Classical)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Gaiete Parisienne\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1373553",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Engineered Record - Non-Classical",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ross Bagdasarian",
+                                            "note": "(as David Seville)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdhMWUyZWEtOGNiZi00NzdmLWI0ODItNzRjM2VjY2ZlZjZhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 350,
+                                            "const": "nm0046564"
+                                        },
+                                        {
+                                            "name": "Ted Keep",
+                                            "note": "(engineer) (as Theodore Keep)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0444792"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record - Non-Classical",
+                                    "winAnnouncementTime": 1565259524,
+                                    "notes": "For \"The Chipmunk Song\" artist: David Seville",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211843",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Hugh Davies",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm2966178"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record - Non-Classical",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Billy May's Big Fat Brass\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1356558",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Luis Valentin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm6028021"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record - Non-Classical",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Witchcraft\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1377726",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Luis Valentin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm6028021"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Engineered Record - Non-Classical",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Come Fly With Me\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1377725",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Instrumental Composition",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nelson Riddle",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0ODI3NjktYzA4NC00NGNiLThmMzItODU2ZWNjOWNkMjEzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 352,
+                                            "const": "nm0725765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Instrumental Composition",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the composition \"Cross Country Suite.\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640399",
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Jazz Performance, Group",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Count Basie",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0NDc1ODUzM15BMl5BanBnXkFtZTgwMDc5NzEzNzM@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 357,
+                                            "const": "nm0059831"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Jazz Performance, Group",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the album \"Basie.\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640403",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jonah Jones",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0428452"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Jazz Performance, Group",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Baubles, Bangles And Beads\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1370555",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Jazz Performance, Soloist",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ella Fitzgerald",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjQzNjY0MjE5M15BMl5BanBnXkFtZTYwMjU4MzU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 313,
+                                            "const": "nm0280228"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Jazz Performance, Soloist",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the album \"Ella Fitzgerald Sings the Duke Ellington Songbook.\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640402",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jonah Jones",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0428452"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Jazz Performance, Soloist",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Jumpin' With Jonah\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1370554",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jonah Jones",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0428452"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Jazz Performance, Soloist",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Baubles, Bangles And Beads\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1370553",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Musical Composition First Recorded and Released in 1958 (over 5 minutes duration)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nelson Riddle",
+                                            "note": "(artist/composer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0ODI3NjktYzA4NC00NGNiLThmMzItODU2ZWNjOWNkMjEzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 352,
+                                            "const": "nm0725765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Musical Composition First Recorded and Released in 1958 (over 5 minutes duration)",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Cross Country Suite\" artist: Nelson Riddle",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255821",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Johnny Mandel",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWI5ZjYyMjUtZDNhMS00YTViLThmMWQtNzJhMzVkYzM0YmYwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 396,
+                                            "imageWidth": 500,
+                                            "const": "nm0006184"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Musical Composition First Recorded and Released in 1958 (over 5 minutes duration)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"I Want To Live\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1343958",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Richard Rodgers",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmNDUwYzQtNDdmNS00OWY1LWFiY2QtNjQ3NTlkMzBhMDdmL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 971,
+                                            "imageWidth": 800,
+                                            "const": "nm0006256"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Musical Composition First Recorded and Released in 1958 (over 5 minutes duration)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Victory At Sea Vol II\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1355866",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Samuel Barber",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0053462"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Musical Composition First Recorded and Released in 1958 (over 5 minutes duration)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Vanessa\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1352519",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Original Cast Album (Broadway or TV)",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Meredith Willson",
+                                            "note": "(composer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWUyMTZlYTEtNzVhMi00NjE5LTk1ZmItM2E5OTY1NjJjYjQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 498,
+                                            "imageWidth": 350,
+                                            "const": "nm0932745"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Original Cast Album (Broadway or TV)",
+                                    "winAnnouncementTime": 1565105921,
+                                    "notes": "For \"The Music Man\" artist: Robert Preston, Barbara Cook, David Burns, Eddie Hodges, Pert Kelton, Helen Raymond",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211089",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Henry Mancini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2Njc4MDAxOF5BMl5BanBnXkFtZTcwODMyNzMzOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1418,
+                                            "const": "nm0000049"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Original Cast Album (Broadway or TV)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Peter Gunn\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334371",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Richard Rodgers",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmNDUwYzQtNDdmNS00OWY1LWFiY2QtNjQ3NTlkMzBhMDdmL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 971,
+                                            "imageWidth": 800,
+                                            "const": "nm0006256"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Original Cast Album (Broadway or TV)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Flower Drum Song\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1355865",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Richard Rodgers",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2ZmNDUwYzQtNDdmNS00OWY1LWFiY2QtNjQ3NTlkMzBhMDdmL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 971,
+                                            "imageWidth": 800,
+                                            "const": "nm0006256"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Original Cast Album (Broadway or TV)",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Victory At Sea Vol II\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1355864",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Performance by a Dance Band",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Count Basie",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc0NDc1ODUzM15BMl5BanBnXkFtZTgwMDc5NzEzNzM@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 357,
+                                            "const": "nm0059831"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by a Dance Band",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Basie\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255826",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jonah Jones",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0428452"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by a Dance Band",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Baubles, Bangles And Beads\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1370552",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Performance by a Vocal Group or Chorus",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Keely Smith",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc4OTcxOTA3Ml5BMl5BanBnXkFtZTgwMjY2OTkzNDM@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1186,
+                                            "const": "nm0808906"
+                                        },
+                                        {
+                                            "name": "Louis Prima",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA3NjgwNzIxM15BMl5BanBnXkFtZTYwMzM0MzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 300,
+                                            "const": "nm0697515"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by a Vocal Group or Chorus",
+                                    "winAnnouncementTime": 1565104722,
+                                    "notes": "For \"That Old Black Magic\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211084",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Kingston Trio",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWYxYjU3ODQtM2RjOS00ODYyLTlkYmMtMDJiZjY5OGM5YTE5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1292,
+                                            "imageWidth": 2012,
+                                            "const": "nm1300323"
+                                        },
+                                        {
+                                            "name": "Dave Guard",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDAyZTM5MzMtMzQ0Yy00MTQxLWIzZjMtNDg0ZGZhMjNlNTlmXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1514,
+                                            "imageWidth": 1072,
+                                            "const": "nm1305066"
+                                        },
+                                        {
+                                            "name": "Nick Reynolds",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmZhYzhhODAtZWNkNy00YzljLWFjNmEtYjg1N2FlYzAzMTc3XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 1475,
+                                            "imageWidth": 1119,
+                                            "const": "nm1902446"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by a Vocal Group or Chorus",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Tom Dooley\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1351028",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by a Vocal Group or Chorus",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Sing A Song Of Basie\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1374302",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Performance by an Orchestra",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "David Rose",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0741328"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by an Orchestra",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Young Man's Lament\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1444761",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Performance by an Orchestra - for Other Than Dancing",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Billy May",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0561877"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by an Orchestra - for Other Than Dancing",
+                                    "winAnnouncementTime": 1565104549,
+                                    "notes": "For \"Billy May's Big Fat Brass\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211083",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9 Previn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTAyODUwNl5BMl5BanBnXkFtZTcwMzEzMTQzNw@@._V1_.jpg",
+                                            "imageHeight": 335,
+                                            "imageWidth": 500,
+                                            "const": "nm0006238"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by an Orchestra - for Other Than Dancing",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Young Man's Lament\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1337279",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Henry Mancini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM2Njc4MDAxOF5BMl5BanBnXkFtZTcwODMyNzMzOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1418,
+                                            "const": "nm0000049"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by an Orchestra - for Other Than Dancing",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Peter Gunn\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334372",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Johnny Mandel",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWI5ZjYyMjUtZDNhMS00YTViLThmMWQtNzJhMzVkYzM0YmYwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 396,
+                                            "imageWidth": 500,
+                                            "const": "nm0006184"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance by an Orchestra - for Other Than Dancing",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"I Want To Live\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1343959",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Performance, Documentary or Spoken Word",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Stan Freberg",
+                                            "note": "(narrator)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MjE4NDYxNF5BMl5BanBnXkFtZTcwNzAxMzkwOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1433,
+                                            "const": "nm0292677"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance, Documentary or Spoken Word",
+                                    "winAnnouncementTime": 1565259645,
+                                    "notes": "For \"The Best Of The Stan Freberg Shows\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211844",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Elaine May",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA3NzE5MzIwNV5BMl5BanBnXkFtZTcwMDA0MDYwMw@@._V1_.jpg",
+                                            "imageHeight": 338,
+                                            "imageWidth": 500,
+                                            "const": "nm0561938"
+                                        },
+                                        {
+                                            "name": "Mike Nichols",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm11112992"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance, Documentary or Spoken Word",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Improvisations To Music\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1363300",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Stan Freberg",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk3MjE4NDYxNF5BMl5BanBnXkFtZTcwNzAxMzkwOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1433,
+                                            "const": "nm0292677"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance, Documentary or Spoken Word",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Green Christmas\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1346648",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Vincent Price",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1OTEyNzcyNl5BMl5BanBnXkFtZTYwMTgwOTU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 362,
+                                            "const": "nm0001637"
+                                        },
+                                        {
+                                            "name": "Carl Sandburg",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0761325"
+                                        },
+                                        {
+                                            "name": "Ed Begley",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQwMTM0Njg2N15BMl5BanBnXkFtZTcwNzgzNzg1MQ@@._V1_.jpg",
+                                            "imageHeight": 1753,
+                                            "imageWidth": 1275,
+                                            "const": "nm0003225"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Performance, Documentary or Spoken Word",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the album \"Great American Speeches\".",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0840774",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best R&B Vocal Performance by a Duo or Group",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Champs",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1843349"
+                                        },
+                                        {
+                                            "name": "Gene Alden",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891399"
+                                        },
+                                        {
+                                            "name": "Buddy Bruce",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891400"
+                                        },
+                                        {
+                                            "name": "Dave Burgess",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891401"
+                                        },
+                                        {
+                                            "name": "Danny Flores",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0753773"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best R&B Vocal Performance by a Duo or Group",
+                                    "winAnnouncementTime": 1565104958,
+                                    "notes": "For \"Tequila\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211085",
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Recording for Children",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Recording for Children",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"The Chipmunk Song (Christmas Don't Be Late)\" artist: Ross Bagdasarian, Sr.",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "The Chipmunk Song (Christmas Don't Be Late)"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0744709",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ross Bagdasarian",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdhMWUyZWEtOGNiZi00NzdmLWI0ODItNzRjM2VjY2ZlZjZhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 350,
+                                            "const": "nm0046564"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Recording for Children",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Witch Doctor\"",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "Witch Doctor"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0843921",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Rhythm & Blues Performance",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Champs",
+                                            "note": "(artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1843349"
+                                        },
+                                        {
+                                            "name": "Buddy Bruce",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891400"
+                                        },
+                                        {
+                                            "name": "Dave Burgess",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891401"
+                                        },
+                                        {
+                                            "name": "Gene Alden",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm10891399"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Rhythm & Blues Performance",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Tequila\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255823",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Harry Belafonte",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4MTEzNjA1NF5BMl5BanBnXkFtZTcwMzgxMDUwMg@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 301,
+                                            "const": "nm0000896"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Rhythm & Blues Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Belafonte Sings The Blues\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1350520",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Nat 'King' Cole",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzODM4Njk5NV5BMl5BanBnXkFtZTYwNjIyNDQ2._V1_.jpg",
+                                            "imageHeight": 420,
+                                            "imageWidth": 332,
+                                            "const": "nm0170713"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Rhythm & Blues Performance",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Looking Back\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1341467",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9 Previn",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTAyODUwNl5BMl5BanBnXkFtZTcwMzEzMTQzNw@@._V1_.jpg",
+                                            "imageHeight": 335,
+                                            "imageWidth": 500,
+                                            "const": "nm0006238"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": 1573664339,
+                                    "notes": "For \"Gigi\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1255820",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gigi",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWIzNzlkMWUtY2VhYy00NWMwLTg3MWUtZWY4ODZjMjBiMmM1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+                                            "imageHeight": 4179,
+                                            "imageWidth": 2706,
+                                            "originalName": null,
+                                            "const": "tt0051658"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Andr\u00e9 Previn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NTAyODUwNl5BMl5BanBnXkFtZTcwMzEzMTQzNw@@._V1_.jpg",
+                                            "imageHeight": 335,
+                                            "imageWidth": 500,
+                                            "const": "nm0006238"
+                                        }
+                                    ],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0201213",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Auntie Mame",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc3YjllZGItMzZiMC00NTRiLTljYzctZTZlOTBhZGZlM2U1XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1000,
+                                            "originalName": null,
+                                            "const": "tt0051383"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0201214",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "I Want to Live!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY2MzMwNzgzNF5BMl5BanBnXkFtZTcwOTk2MTI0NA@@._V1_.jpg",
+                                            "imageHeight": 1023,
+                                            "imageWidth": 682,
+                                            "originalName": null,
+                                            "const": "tt0051758"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Johnny Mandel",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWI5ZjYyMjUtZDNhMS00YTViLThmMWQtNzJhMzVkYzM0YmYwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 396,
+                                            "imageWidth": 500,
+                                            "const": "nm0006184"
+                                        }
+                                    ],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0201216",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Johnny Mandel",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWI5ZjYyMjUtZDNhMS00YTViLThmMWQtNzJhMzVkYzM0YmYwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
+                                            "imageHeight": 396,
+                                            "imageWidth": 500,
+                                            "const": "nm0006184"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"I Want To Live\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1343957",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "South Pacific",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc1MDM0MDM4Nl5BMl5BanBnXkFtZTgwMDMwMTgxMTE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 337,
+                                            "originalName": null,
+                                            "const": "tt0052225"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Alfred Newman",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDAzNWEwNDctMzBiZS00NTY2LWIyOTMtNDVlYjVjMTFjNzYyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+                                            "imageHeight": 933,
+                                            "imageWidth": 770,
+                                            "const": "nm0000055"
+                                        }
+                                    ],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0201217",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Bridge on the River Kwai",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+                                            "imageHeight": 2935,
+                                            "imageWidth": 1895,
+                                            "originalName": null,
+                                            "const": "tt0050212"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Malcolm Arnold",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0002185"
+                                        }
+                                    ],
+                                    "categoryName": "Best Soundtrack Album, Dramatic Picture Score or Original Cast",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0201215",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Vocal Performance, Female",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ella Fitzgerald",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjQzNjY0MjE5M15BMl5BanBnXkFtZTYwMjU4MzU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 313,
+                                            "const": "nm0280228"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Female",
+                                    "winAnnouncementTime": 1565100914,
+                                    "notes": "For \"Ella Fitzgerald Sings The Irving Berlin Song Book\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211064",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Eydie Gorm\u00e9",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0Nzk0MjU1M15BMl5BanBnXkFtZTcwNzgwOTExOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1353,
+                                            "const": "nm0331171"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Female",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Eydie In Love\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1349144",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Keely Smith",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc4OTcxOTA3Ml5BMl5BanBnXkFtZTgwMjY2OTkzNDM@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1186,
+                                            "const": "nm0808906"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Female",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"I Wish You Love\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1438162",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Peggy Lee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzNjc5NDE0Nl5BMl5BanBnXkFtZTYwNDEyNzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 333,
+                                            "const": "nm0498007"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Female",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Fever\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1347270",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Vocal Performance, Male",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Perry Como",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4NTYzODg4NF5BMl5BanBnXkFtZTgwMjQ1NzUyMTI@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 400,
+                                            "const": "nm0173908"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Male",
+                                    "winAnnouncementTime": 1565100914,
+                                    "notes": "For \"Catch A Falling Star\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1211065",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Domenico Modugno",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2IwZmQxNzctNGUzYy00ODU0LTg4YmMtZDQxN2U5YmNkMGU4XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+                                            "imageHeight": 1200,
+                                            "imageWidth": 979,
+                                            "const": "nm0595340"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Male",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Nel Blu Dipinto Di Blu (Volare)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1349196",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Sinatra",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTYzMzM2ODgzM15BMl5BanBnXkFtZTYwOTc5MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 304,
+                                            "const": "nm0000069"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Male",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Witchcraft (Single)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334986",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Sinatra",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTYzMzM2ODgzM15BMl5BanBnXkFtZTYwOTc5MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 304,
+                                            "const": "nm0000069"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Vocal Performance, Male",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Come Fly With Me\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334985",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Record of the Year",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Domenico Modugno",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2IwZmQxNzctNGUzYy00ODU0LTg4YmMtZDQxN2U5YmNkMGU4XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+                                            "imageHeight": 1200,
+                                            "imageWidth": 979,
+                                            "const": "nm0595340"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Record of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Nel Blu Dipinto di Blu (Volare).\"",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "Nel Blu Dipinto di Blu (Volare)."
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640394",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Sinatra",
+                                            "note": "(artist)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTYzMzM2ODgzM15BMl5BanBnXkFtZTYwOTc5MzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 304,
+                                            "const": "nm0000069"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Record of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Witchcraft (Single)\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1334982",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Peggy Lee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzNjc5NDE0Nl5BMl5BanBnXkFtZTYwNDEyNzM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 333,
+                                            "const": "nm0498007"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Record of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Fever\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1347269",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Perry Como",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ4NTYzODg4NF5BMl5BanBnXkFtZTgwMjQ1NzUyMTI@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 400,
+                                            "const": "nm0173908"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Record of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Catch A Falling Star\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1443772",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ross Bagdasarian",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODdhMWUyZWEtOGNiZi00NzdmLWI0ODItNzRjM2VjY2ZlZjZhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 470,
+                                            "imageWidth": 350,
+                                            "const": "nm0046564"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Record of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"The Chipmunk Song (Christmas Don't Be Late)\"",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "The Chipmunk Song (Christmas Don't Be Late)"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0843914",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Song of the Year",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Domenico Modugno",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2IwZmQxNzctNGUzYy00ODU0LTg4YmMtZDQxN2U5YmNkMGU4XkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_.jpg",
+                                            "imageHeight": 1200,
+                                            "imageWidth": 979,
+                                            "const": "nm0595340"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Song of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Nel Blu Dipinto di Blu (Volare).\" artist: Domenico Modugno",
+                                    "characterNames": [],
+                                    "songNames": [
+                                        "Nel Blu Dipinto di Blu (Volare)."
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an0640396",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cy Coleman",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0170990"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Song of the Year",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For \"Witchcraft\"",
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Grammy",
+                                    "awardNominationId": "an1360355",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002927"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000301",
+            "requestKey": {
+                "year": 1959,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000301"
+            },
+            "eventEditionId": "ee0021031",
+            "eventName": "Grammy Awards",
+            "year": 1959
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

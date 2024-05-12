@@ -1,0 +1,2202 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Primetime Emmy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Individual Achievements in News, Documentaries and Sports - Musicians",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "A Golden Prison: The Louvre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWE4ZGY4ODItZjAwNC00MmRkLThlMmYtNzg2Nzg3NjJiN2U3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0277538"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Norman Dello Joio",
+                                            "note": "(composer/conductor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0426998"
+                                        }
+                                    ],
+                                    "categoryName": "Individual Achievements in News, Documentaries and Sports - Musicians",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167798",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Saga of Western Man",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGFlNGZiNzEtNTRjMC00ODY0LTk5M2UtYmRhNjA5NzY2OGY1XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 955,
+                                            "originalName": null,
+                                            "const": "tt0334865"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ulpio Minucci",
+                                            "note": "(composer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0591802"
+                                        },
+                                        {
+                                            "name": "Rayburn Wright",
+                                            "note": "(conductor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1891079"
+                                        }
+                                    ],
+                                    "categoryName": "Individual Achievements in News, Documentaries and Sports - Musicians",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Leonardo da Vinci\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Leonardo da Vinci"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167799",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Achievement in News, Information, Documentary and Sports - Writing",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "A Golden Prison: The Louvre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWE4ZGY4ODItZjAwNC00MmRkLThlMmYtNzg2Nzg3NjJiN2U3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0277538"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "John T. Sughrue",
+                                            "note": "(director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1403593"
+                                        },
+                                        {
+                                            "name": "Sidney Carroll",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0140987"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Achievement in News, Information, Documentary and Sports - Writing",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0408779",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Alfred Lunt",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDVlNTIwNzQtZDRlNy00ZmE5LTliMDYtMjhmMmUwMDE1ZDRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 518,
+                                            "imageWidth": 361,
+                                            "const": "nm0526795"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For playing \"Oliver Wendell Holmes\". Alfred Lunt was not present at the award's ceremony. Melvyn Douglas accepted the award on his behalf.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499792",
+                                    "characterNames": [
+                                        "Oliver Wendell Holmes"
+                                    ],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Barbra Streisand",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMwOTQ3NTg1MF5BMl5BanBnXkFtZTcwMjc4MjQ4OA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1432,
+                                            "const": "nm0000659"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167775",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dick Van Dyke",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMxODU1ODExNl5BMl5BanBnXkFtZTgwOTk2MDA4MDI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1657,
+                                            "const": "nm0001813"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Dick Van Dyke Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0ODUzMDkwM15BMl5BanBnXkFtZTcwNTI1ODUyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 353,
+                                            "originalName": null,
+                                            "const": "tt0054533"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167771",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Leonard Bernstein",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NzMwODg2MF5BMl5BanBnXkFtZTYwNDY2NzU2._V1_.jpg",
+                                            "imageHeight": 320,
+                                            "imageWidth": 420,
+                                            "const": "nm0077086"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "New York Philharmonic Young People's Concerts",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRjMTZiMDgtNGJkMi00OGRiLWI2ZWQtMTllYTE2YzVjYTkzXkEyXkFqcGdeQXVyMTk4NTIzMzI@._V1_.jpg",
+                                            "imageHeight": 1360,
+                                            "imageWidth": 855,
+                                            "originalName": null,
+                                            "const": "tt3776668"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0524273",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Lynn Fontanne",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDcyMGY3Y2MtNDc4ZS00YmU5LWEwMTQtNmY1ZDFiMWRmODBjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 655,
+                                            "imageWidth": 542,
+                                            "const": "nm0285007"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For playing \"Fanny Bowditch Holmes\". Lynn Fontanne was not present at the award's ceremony. 'Joan Crawford' accepted the award on her behalf.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499793",
+                                    "characterNames": [
+                                        "Fanny Bowditch Holmes"
+                                    ],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bob Hope",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTY2MzA1MjU3MF5BMl5BanBnXkFtZTYwMzkxMDM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 343,
+                                            "const": "nm0001362"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Hope Presents the Chrysler Theatre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDUyMzk1OGItMWUxYS00MjZhLThiM2EtNTAxYjM5ZTA1ZjczXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 360,
+                                            "imageWidth": 282,
+                                            "originalName": null,
+                                            "const": "tt0056742"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Bob Hope Comedy Special (#1.24)\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Bob Hope Comedy Special (#1.24)"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167782",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Danny Kaye",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNlM2VkN2QtMjE1Yi00ZDQzLTg1YTktMDkzODhmNDRhYTk2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 5120,
+                                            "imageWidth": 3600,
+                                            "const": "nm0001414"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Danny Kaye Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzA4ZGIzYzMtMGNkMy00NTQ1LWIxYWMtZTFlY2Y0YzcyYzIxXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 360,
+                                            "imageWidth": 255,
+                                            "originalName": null,
+                                            "const": "tt0056748"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499800",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "David McCallum",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmI0MTljNmEtNTMyYi00OWE0LTk1NGUtOTQ1ZTQ1MzEzNDRiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 3000,
+                                            "imageWidth": 2315,
+                                            "const": "nm0564724"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Man from U.N.C.L.E.",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0YWY1Y2UtZDRhOS00NDE0LTk2NTAtM2NkMjUwMTBhZDBjXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 445,
+                                            "imageWidth": 318,
+                                            "originalName": null,
+                                            "const": "tt0057765"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167779",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dean Jagger",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzg1NzkxNDQ4MF5BMl5BanBnXkFtZTcwMzg0MjIyOA@@._V1_.jpg",
+                                            "imageHeight": 1798,
+                                            "imageWidth": 1317,
+                                            "const": "nm0415591"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Mr. Novak",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmEzMGJhMjQtMTY3My00MTAyLWExMTgtZTljOTRiN2E2NmZkXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_.jpg",
+                                            "imageHeight": 3027,
+                                            "imageWidth": 2529,
+                                            "originalName": null,
+                                            "const": "tt0056774"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167780",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gladys Cooper",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNjk0MTMyMl5BMl5BanBnXkFtZTcwNjI1MzM4OA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1570,
+                                            "const": "nm0178066"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Rogues",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGViMWYzMDgtNWZlYS00NGI5LWI3NjItODc4NzA5YTE1Y2UzXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_.jpg",
+                                            "imageHeight": 1100,
+                                            "imageWidth": 846,
+                                            "originalName": null,
+                                            "const": "tt0057782"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167777",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Johnny Carson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYyMTc3NzkxMl5BMl5BanBnXkFtZTYwODQyOTI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 292,
+                                            "const": "nm0001992"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Tonight Show Starring Johnny Carson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzJlZWExNDItY2Q4OS00ZmQwLThmMTAtM2FhYmUzYzNlZmU4XkEyXkFqcGdeQXVyMTE1MTYxMzk2._V1_.jpg",
+                                            "imageHeight": 1147,
+                                            "imageWidth": 780,
+                                            "originalName": null,
+                                            "const": "tt0055708"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392627",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Julie Andrews",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTYyODA2Ml5BMl5BanBnXkFtZTYwMTgyMDA0._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 274,
+                                            "const": "nm0000267"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Andy Williams Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY5MDU1ODk4Ml5BMl5BanBnXkFtZTcwNTY1NTkxMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0055660"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode on 30 November 1964.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167776",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Julie Harris",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzODM1MjUwOV5BMl5BanBnXkFtZTcwMDY4NDgwMw@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1534,
+                                            "const": "nm0364915"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Holy Terror",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0217546"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within Hallmark Hall of Fame (1951).",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167783",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Red Skelton",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1OTEwOTYwM15BMl5BanBnXkFtZTYwOTEzMzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 374,
+                                            "const": "nm0804026"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Red Skelton Hour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMyMzA4NDQ5N15BMl5BanBnXkFtZTcwNTAyNjQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 348,
+                                            "originalName": "The Red Skelton Show",
+                                            "const": "tt0043224"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392625",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Richard Crenna",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NjcwMzg5MF5BMl5BanBnXkFtZTcwMTU2NzE0NA@@._V1_.jpg",
+                                            "imageHeight": 1023,
+                                            "imageWidth": 689,
+                                            "const": "nm0001077"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Slattery's People",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmYxZTUwN2QtZTZiNi00MGRkLWFkYmYtOWRjYjY3NWI1NDdmXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+                                            "imageHeight": 612,
+                                            "imageWidth": 466,
+                                            "originalName": null,
+                                            "const": "tt0057784"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167781",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Robert Coote",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOThmMmE4ZDAtNzY4YS00YjViLWFkNGItNjUyZTRhMGMxYTY2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+                                            "imageHeight": 360,
+                                            "imageWidth": 480,
+                                            "const": "nm0178509"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Rogues",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGViMWYzMDgtNWZlYS00NGI5LWI3NjItODc4NzA5YTE1Y2UzXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_.jpg",
+                                            "imageHeight": 1100,
+                                            "imageWidth": 846,
+                                            "originalName": null,
+                                            "const": "tt0057782"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Actors and Performers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167778",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Art Directors and Set Decorators",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bill Harp",
+                                            "note": "(set decorator)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0363772"
+                                        },
+                                        {
+                                            "name": "Tom H. John",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0424244"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Art Directors and Set Decorators",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392614",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Warren Clymer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0167428"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Holy Terror",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0217546"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Art Directors and Set Decorators",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within Hallmark Hall of Fame (1951).",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167789",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Gene Callahan",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0130194"
+                                        },
+                                        {
+                                            "name": "Jack Wright Jr.",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0942168"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Carol for Another Christmas",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VjMGRjN2EtNThmMS00MDE4LTgyNWYtOTk0ZjM5ODgwYjcxXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+                                            "imageHeight": 647,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0057916"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Art Directors and Set Decorators",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within \"Xerox Specials\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392662",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Warren Clymer",
+                                            "note": "(art director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0167428"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Art Directors and Set Decorators",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499796",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Choreographers",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Joe Layton",
+                                            "note": "(choreographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0493615"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Choreographers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392615",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Cinematographer",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "12 O'Clock High",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM0NzQzYzItODEzMC00OTI5LTk3YjYtOWJhYzRmNzllMmE5XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0057793"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "William W. Spencer",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0818157"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Cinematographer",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167794",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bonanza",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGE2ZjIxZjgtMzdhMS00ZTYzLWFjMjQtN2U4ZTQ1NDVkNDBhXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 1280,
+                                            "imageWidth": 906,
+                                            "originalName": null,
+                                            "const": "tt0052451"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Haskell B. Boggs",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzhiNzY5YTgtOWMwOC00NGMwLTg0ZGMtYWQ1MjFiZWZhY2FkXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 874,
+                                            "imageWidth": 1217,
+                                            "const": "nm0091772"
+                                        },
+                                        {
+                                            "name": "William P. Whitley",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0926082"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Cinematographer",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167795",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Man from U.N.C.L.E.",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0YWY1Y2UtZDRhOS00NDE0LTk2NTAtM2NkMjUwMTBhZDBjXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 445,
+                                            "imageWidth": 318,
+                                            "originalName": null,
+                                            "const": "tt0057765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Fred J. Koenekamp",
+                                            "note": "(cinematographer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc5NjA4ODc1OV5BMl5BanBnXkFtZTgwMzIyMTY5NDM@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1372,
+                                            "const": "nm0005758"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Cinematographer",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392613",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Color Consultant",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bonanza",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGE2ZjIxZjgtMzdhMS00ZTYzLWFjMjQtN2U4ZTQ1NDVkNDBhXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg",
+                                            "imageHeight": 1280,
+                                            "imageWidth": 906,
+                                            "originalName": null,
+                                            "const": "tt0052451"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Edward P. Ancona Jr.",
+                                            "note": "(color consultant)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0025849"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Color Consultant",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167797",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Costume Designers",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Noel Taylor",
+                                            "note": "(costume designer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQxMzE0NjYtZjk5YS00NmI3LWIyMjgtM2RkOTg0MjQxY2IxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+                                            "imageHeight": 600,
+                                            "imageWidth": 400,
+                                            "const": "nm0852966"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Costume Designers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499797",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Directors",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Paul Bogart",
+                                            "note": "(director)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmQzZTcyOTgtNWY5NC00MjhiLTk4MzctMmQwNGY0NjUyZGRiXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_.jpg",
+                                            "imageHeight": 480,
+                                            "imageWidth": 640,
+                                            "const": "nm0091575"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Defenders",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGJmZWJkYzEtMTQwOS00MDIyLWFkYTgtMDY2NTJmODY4YmViXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1061,
+                                            "originalName": null,
+                                            "const": "tt0054531"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Directors",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The 700 Year Old Gang\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The 700 Year Old Gang"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167784",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dwight Hemion",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0376033"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Directors",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167785",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "George Schaefer",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0769615"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Directors",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within \"Hallmark Hall of Fame\"",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an1523131",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Editors",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Man from U.N.C.L.E.",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0YWY1Y2UtZDRhOS00NDE0LTk2NTAtM2NkMjUwMTBhZDBjXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 445,
+                                            "imageWidth": 318,
+                                            "originalName": null,
+                                            "const": "tt0057765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Henry Berman",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0075770"
+                                        },
+                                        {
+                                            "name": "Joseph Dervin",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0220693"
+                                        },
+                                        {
+                                            "name": "William B. Gulick",
+                                            "note": "(editor)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0347739"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Editors",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392612",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Lighting Directors",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Phil Hymes",
+                                            "note": "(lighting director)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDUwNzFlNTQtZmU4OS00ODdmLThmNWMtYjVhZTc4Yjk4MWMwXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_.jpg",
+                                            "imageHeight": 634,
+                                            "imageWidth": 404,
+                                            "const": "nm0405233"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Lighting Directors",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499794",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Make-Up Artist",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob O'Bradovich",
+                                            "note": "(makeup artist)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0639363"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Make-Up Artist",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499795",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Musicians",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Peter Matz",
+                                            "note": "(music director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0560690"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Musicians",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167792",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Fantasticks",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTc0MTRkMjItMDg5Yi00MDQyLTk3NmMtZTNkNWQ0N2I4OWJiL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 504,
+                                            "imageWidth": 353,
+                                            "originalName": null,
+                                            "const": "tt0595374"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Herbert Grossman",
+                                            "note": "(music director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0343652"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Musicians",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499799",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Production Crew",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Man from U.N.C.L.E.",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0YWY1Y2UtZDRhOS00NDE0LTk2NTAtM2NkMjUwMTBhZDBjXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 445,
+                                            "imageWidth": 318,
+                                            "originalName": null,
+                                            "const": "tt0057765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Production Crew",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Production Team Effort.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392611",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Special Photographic Effects",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Voyage to the Bottom of the Sea",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDMwYzNjMTUtMDdjNi00MDQ2LWI1OWQtOTcyNzcxNmNjYzllXkEyXkFqcGdeQXVyMTI0MTA4MTM5._V1_.jpg",
+                                            "imageHeight": 2192,
+                                            "imageWidth": 1461,
+                                            "originalName": null,
+                                            "const": "tt0057798"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "L.B. Abbott",
+                                            "note": "(special photographic effects)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0008004"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Special Photographic Effects",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0387413",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Technical Directors",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Clair McCoy",
+                                            "note": "(technical director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1020724"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Danny Thomas Special: The Wonderful World of Burlesque",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWRkYzRjYTctOTU4Ni00NjExLWIyYjMtMjNhZWU2NjY3Mjk5XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 281,
+                                            "imageWidth": 309,
+                                            "originalName": null,
+                                            "const": "tt2175332"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Technical Directors",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393513",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Defenders",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGJmZWJkYzEtMTQwOS00MDIyLWFkYTgtMDY2NTJmODY4YmViXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1061,
+                                            "originalName": null,
+                                            "const": "tt0054531"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "David Karp",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0439922"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The 700 Year Old Gang\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The 700 Year Old Gang"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167786",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Danny Thomas Special: The Wonderful World of Burlesque",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWRkYzRjYTctOTU4Ni00NjExLWIyYjMtMjNhZWU2NjY3Mjk5XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 281,
+                                            "imageWidth": 309,
+                                            "originalName": null,
+                                            "const": "tt2175332"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Coleman Jacoby",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0412913"
+                                        },
+                                        {
+                                            "name": "Arnie Rosen",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0741911"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393511",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "That Was the Week That Was",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY3NzMwOTMxNF5BMl5BanBnXkFtZTYwNDE3ODM3._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 337,
+                                            "originalName": null,
+                                            "const": "tt0057789"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "William Boardman",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1953425"
+                                        },
+                                        {
+                                            "name": "Dee Caruso",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0142292"
+                                        },
+                                        {
+                                            "name": "Robert Emmett",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1074155"
+                                        },
+                                        {
+                                            "name": "David Frost",
+                                            "note": "(writer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNjAxMTI4OF5BMl5BanBnXkFtZTcwNDk5NzY4Mw@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 284,
+                                            "const": "nm0296484"
+                                        },
+                                        {
+                                            "name": "Gerald Gardner",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0306932"
+                                        },
+                                        {
+                                            "name": "Buck Henry",
+                                            "note": "(writer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2UwNGU5NDEtZmU3Yy00YzNlLWE0YmUtZWIyMjgyZGU4OGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+                                            "imageHeight": 3000,
+                                            "imageWidth": 2000,
+                                            "const": "nm0377750"
+                                        },
+                                        {
+                                            "name": "Joseph Hurley",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5074828"
+                                        },
+                                        {
+                                            "name": "Thomas Meehan",
+                                            "note": "(writer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTE4NTkwNTc4MF5BMl5BanBnXkFtZTgwNjA4NDAzMzI@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1437,
+                                            "const": "nm0576070"
+                                        },
+                                        {
+                                            "name": "Herbert Sargent",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0765109"
+                                        },
+                                        {
+                                            "name": "Larry Siegel",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1047699"
+                                        },
+                                        {
+                                            "name": "Gloria Steinem",
+                                            "note": "(writer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIxMjE2MTk1OF5BMl5BanBnXkFtZTYwNzMwMzA1._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 292,
+                                            "const": "nm0825887"
+                                        },
+                                        {
+                                            "name": "Jim Stevenson",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5073348"
+                                        },
+                                        {
+                                            "name": "Calvin Trillin",
+                                            "note": "(writer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5MzE1MDA5M15BMl5BanBnXkFtZTgwODI4NjU4NDE@._V1_.jpg",
+                                            "imageHeight": 375,
+                                            "imageWidth": 500,
+                                            "const": "nm0872821"
+                                        },
+                                        {
+                                            "name": "Saul Turteltaub",
+                                            "note": "(writer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0878125"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393516",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Dick Van Dyke Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0ODUzMDkwM15BMl5BanBnXkFtZTcwNTI1ODUyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 353,
+                                            "originalName": null,
+                                            "const": "tt0054533"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Carl Reiner",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg2NDc4NzQ3MF5BMl5BanBnXkFtZTcwNjk0MDY2MQ@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 280,
+                                            "const": "nm0005348"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"Never Bathe On Sunday\".",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "Never Bathe On Sunday"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167788",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Robert Hartung",
+                                            "note": "(teleplay)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0367268"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Individual Achievements in Entertainment - Writers",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Emmet Lavery is listed on the official Emmy Database for writing the original book. Lavery was not listed as an Emmy nominee on earlier press releases.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499798",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Outstanding Program Achievements in Entertainment",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "My Name Is Barbra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI5MTA2MzIzMV5BMl5BanBnXkFtZTcwMTU2MTQzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 351,
+                                            "originalName": null,
+                                            "const": "tt0243435"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Richard Lewine",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0506851"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392616",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "New York Philharmonic Young People's Concerts",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRjMTZiMDgtNGJkMi00OGRiLWI2ZWQtMTllYTE2YzVjYTkzXkEyXkFqcGdeQXVyMTk4NTIzMzI@._V1_.jpg",
+                                            "imageHeight": 1360,
+                                            "imageWidth": 855,
+                                            "originalName": null,
+                                            "const": "tt3776668"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Roger Englander",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm1184818"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode: What Is Sonata Form? (#8.1).",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0530221",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Dick Van Dyke Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0ODUzMDkwM15BMl5BanBnXkFtZTcwNTI1ODUyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 353,
+                                            "originalName": null,
+                                            "const": "tt0054533"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Carl Reiner",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg2NDc4NzQ3MF5BMl5BanBnXkFtZTcwNjk0MDY2MQ@@._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 280,
+                                            "const": "nm0005348"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167761",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Magnificent Yankee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGM3ZGE0MDgtMzM4OS00ZmNiLThhZWUtYTM4NTI0YTBmZTJjXkEyXkFqcGdeQXVyNjU1Njg5NTM@._V1_.jpg",
+                                            "imageHeight": 528,
+                                            "imageWidth": 876,
+                                            "originalName": null,
+                                            "const": "tt0240701"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "George Schaefer",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0769615"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0499791",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bob Hope Presents the Chrysler Theatre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDUyMzk1OGItMWUxYS00MjZhLThiM2EtNTAxYjM5ZTA1ZjczXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 360,
+                                            "imageWidth": 282,
+                                            "originalName": null,
+                                            "const": "tt0056742"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Richard Berg",
+                                            "note": "(executive producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0073882"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167765",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Carol for Another Christmas",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VjMGRjN2EtNThmMS00MDE4LTgyNWYtOTk0ZjM5ODgwYjcxXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+                                            "imageHeight": 647,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0057916"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Joseph L. Mankiewicz",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1MzMwMzEwNF5BMl5BanBnXkFtZTcwMTk5MjgyNw@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 415,
+                                            "const": "nm0000581"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within \"Xerox Specials\"",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392623",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Danny Thomas Special: The Wonderful World of Burlesque",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWRkYzRjYTctOTU4Ni00NjExLWIyYjMtMjNhZWU2NjY3Mjk5XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 281,
+                                            "imageWidth": 309,
+                                            "originalName": null,
+                                            "const": "tt2175332"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "George Schlatter",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQyMDMyMDIyMl5BMl5BanBnXkFtZTcwNjY4NjI4NA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1363,
+                                            "const": "nm0772118"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393512",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mr. Novak",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmEzMGJhMjQtMTY3My00MTAyLWExMTgtZTljOTRiN2E2NmZkXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_.jpg",
+                                            "imageHeight": 3027,
+                                            "imageWidth": 2529,
+                                            "originalName": null,
+                                            "const": "tt0056774"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Leonard Freeman",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VjMTNlYTctZmFiMS00ODcwLWI0OGMtZTY2M2Y3NTM4Y2FkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+                                            "imageHeight": 833,
+                                            "imageWidth": 624,
+                                            "const": "nm0293480"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167769",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Profiles in Courage",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWM2MTQ1ZGEtYzIxNy00MjNhLThjNzYtNzhmMjI3MTJmNDM2XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 313,
+                                            "originalName": null,
+                                            "const": "tt0057780"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Robert Saudek",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0766553"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167770",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Andy Williams Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY5MDU1ODk4Ml5BMl5BanBnXkFtZTcwNTY1NTkxMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0055660"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Finkel",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0277878"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167764",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Defenders",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGJmZWJkYzEtMTQwOS00MDIyLWFkYTgtMDY2NTJmODY4YmViXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1061,
+                                            "originalName": null,
+                                            "const": "tt0054531"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Bob Markell",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0548338"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167766",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Magical World of Disney",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzEzMzQzMDc0Nl5BMl5BanBnXkFtZTcwMTk5ODczMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 353,
+                                            "originalName": "Disneyland",
+                                            "const": "tt0046593"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Walt Disney",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 390,
+                                            "const": "nm0000370"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167767",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Man from U.N.C.L.E.",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0YWY1Y2UtZDRhOS00NDE0LTk2NTAtM2NkMjUwMTBhZDBjXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 445,
+                                            "imageWidth": 318,
+                                            "originalName": null,
+                                            "const": "tt0057765"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Sam Rolfe",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0738222"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0167768",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Who Has Seen the Wind?",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmEzZGMxM2ItYjcwYS00ZmIxLWJkMmItNzRmYWYxNTgzYjhiXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_.jpg",
+                                            "imageHeight": 527,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0059908"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "George Sidney",
+                                            "note": "(producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUyNDgwNTA5OF5BMl5BanBnXkFtZTYwMTk1Nzcz._V1_.jpg",
+                                            "imageHeight": 400,
+                                            "imageWidth": 262,
+                                            "const": "nm0796645"
+                                        }
+                                    ],
+                                    "categoryName": "Outstanding Program Achievements in Entertainment",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Shown within \"Xerox Specials\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0392624",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002214"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000223",
+            "requestKey": {
+                "year": 1965,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000223"
+            },
+            "eventEditionId": "ee0019506",
+            "eventName": "Primetime Emmy Awards",
+            "year": 1965
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

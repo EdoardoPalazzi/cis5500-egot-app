@@ -1,0 +1,1612 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Primetime Emmy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Best Actor",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Thomas Mitchell",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_.jpg",
+                                            "imageHeight": 1220,
+                                            "imageWidth": 864,
+                                            "const": "nm0593775"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170809",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Charlton Heston",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTBkOTkzMDYtY2JlMC00ODExLWJjNTAtZTcxMjZkMzZkYTgzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 3000,
+                                            "imageWidth": 2271,
+                                            "const": "nm0000032"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170811",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jack Webb",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NjMxNzgwOV5BMl5BanBnXkFtZTYwMDc5MzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 330,
+                                            "const": "nm0916131"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170814",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "John Forsythe",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg0MTE4MTYxNl5BMl5BanBnXkFtZTYwOTg1MzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 348,
+                                            "const": "nm0001234"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170810",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "John Newland",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGMyYmM1ZjAtYjMyNS00YzIzLWFjNmEtZWY4OTU3MTEyMTU2XkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_.jpg",
+                                            "imageHeight": 917,
+                                            "imageWidth": 1218,
+                                            "const": "nm0627950"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170812",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Vaughn Taylor",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQwMjQzNTUxMl5BMl5BanBnXkFtZTcwNzc5ODkxOA@@._V1_.jpg",
+                                            "imageHeight": 1845,
+                                            "imageWidth": 1250,
+                                            "const": "nm0853299"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actor",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170813",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Actress",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Helen Hayes",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIwMDgxODAzNF5BMl5BanBnXkFtZTYwMDczNDM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 344,
+                                            "const": "nm0371040"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actress",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170815",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "June Lockhart",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk0Nzk3NzMyMF5BMl5BanBnXkFtZTcwODI3MjY5Ng@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 391,
+                                            "const": "nm0001478"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actress",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170817",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Maria Riva",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg2NmY3MTctZTVmNi00OWNhLTgyOWUtZDEzODNlNjZkNTZmXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_.jpg",
+                                            "imageHeight": 1150,
+                                            "imageWidth": 861,
+                                            "const": "nm0728958"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actress",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170818",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Peggy Wood",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYyMTkyNjAxOV5BMl5BanBnXkFtZTcwOTc1NjAyOA@@._V1_.jpg",
+                                            "imageHeight": 1268,
+                                            "imageWidth": 838,
+                                            "const": "nm0939931"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actress",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170819",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sarah Churchill",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWI2MWU5MzctOGY5OS00MmY0LTkxNDEtM2U3MWMzOTU2ODE3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_.jpg",
+                                            "imageHeight": 765,
+                                            "imageWidth": 576,
+                                            "const": "nm0161468"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Actress",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170816",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "What's My Line?",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGQ2MDM0NWEtOGQ1YS00NzVkLTgyOTUtMjM5Njk4ZWZlY2MzXkEyXkFqcGdeQXVyMjQzOTk0NzU@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0042168"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170797",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Down You Go",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0143036"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0395406",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "This Is Your Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5MTc0NjQ5NF5BMl5BanBnXkFtZTcwMzM3OTgyMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 340,
+                                            "originalName": null,
+                                            "const": "tt0044296"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170799",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Two for the Money",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTk0NjQyZmYtZTZjMC00YjcxLTkyMDEtMjk1NTU4ZjQ5MTI5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 408,
+                                            "originalName": null,
+                                            "const": "tt0044299"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170800",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "You Bet Your Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjQxNTllYzgtYjUwMS00NDhmLTgwYjUtMzc4NTlmZGI5YzhlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 480,
+                                            "originalName": null,
+                                            "const": "tt0042171"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Audience Participation, Quiz or Panel Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170801",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Children's Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Time for Beany",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VjZGZiMjQtOWEyOC00Zjc2LTlkNDUtMDZlZmI0NWJjMjk0XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 573,
+                                            "imageWidth": 414,
+                                            "originalName": null,
+                                            "const": "tt0145637"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170802",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Big Top",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0042082"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170803",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Kukla, Fran and Ollie",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDJlNTRlZGYtZDI5Yy00MzQ1LWFjOTctNDBlZTJjMTI1ODhmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 1002,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0159886"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170806",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Super Circus",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWQxYjI1MjAtMmU4My00Mjc1LTllNGYtZDQ0MGM2MmE4YjkzXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_.jpg",
+                                            "imageHeight": 2938,
+                                            "imageWidth": 1986,
+                                            "originalName": null,
+                                            "const": "tt0041060"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170807",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gabby Hayes Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY1OTU4NjgwNV5BMl5BanBnXkFtZTcwMjI3NzIzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 347,
+                                            "originalName": null,
+                                            "const": "tt0042108"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0395405",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Howdy Doody Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk0NDA0MTA2M15BMl5BanBnXkFtZTcwMzY5ODAyMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 347,
+                                            "originalName": "Puppet Playhouse",
+                                            "const": "tt0165594"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170805",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Zoo Parade",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0211891"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170808",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Comedian",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jimmy Durante",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxMzM5MF5BMl5BanBnXkFtZTYwMzIzMzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 300,
+                                            "const": "nm0002051"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedian",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170820",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Herb Shriner",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0795403"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedian",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170824",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jackie Gleason",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNzcyNTU5MV5BMl5BanBnXkFtZTcwMzE5MjIzMQ@@._V1_.jpg",
+                                            "imageHeight": 380,
+                                            "imageWidth": 314,
+                                            "const": "nm0001276"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedian",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170823",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Sid Caesar",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI2MzI2MTM5NF5BMl5BanBnXkFtZTcwNTgyMDQyMg@@._V1_.jpg",
+                                            "imageHeight": 565,
+                                            "imageWidth": 450,
+                                            "const": "nm0128377"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedian",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170821",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Wally Cox",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTczMTc1ODYyNF5BMl5BanBnXkFtZTcwMDkyMDgxOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1407,
+                                            "const": "nm0185281"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedian",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170822",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Comedienne",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Lucille Ball",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk1MzkwMTA2Nl5BMl5BanBnXkFtZTYwNzM5OTI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 392,
+                                            "const": "nm0000840"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedienne",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170825",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Eve Arden",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMzQzMjU1Ml5BMl5BanBnXkFtZTcwNjExOTkxOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1629,
+                                            "const": "nm0000781"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedienne",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170826",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Imogene Coca",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIxNDc2NzE1Nl5BMl5BanBnXkFtZTYwNDE5MTU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 359,
+                                            "const": "nm0168042"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedienne",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170827",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Joan Davis",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTI4NTMzMzA0OV5BMl5BanBnXkFtZTcwNjM1MDEzOA@@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1538,
+                                            "const": "nm0204843"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedienne",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170828",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Martha Raye",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTcxNTBiOWQtMmNmYy00YTRjLWJjYjgtNzQyZjZlMmJjNmNmXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_.jpg",
+                                            "imageHeight": 638,
+                                            "imageWidth": 509,
+                                            "const": "nm0713106"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Comedienne",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170829",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Dramatic Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Robert Montgomery Presents",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ1MTYxODIxN15BMl5BanBnXkFtZTgwMDE4Mjg5MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 375,
+                                            "originalName": null,
+                                            "const": "tt0042141"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Dramatic Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170771",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Celanese Theatre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTM5MmRiMTAtMzBmMy00Zjc4LTgxNTUtYzIyZDg0YTg1NTJhXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 288,
+                                            "imageWidth": 360,
+                                            "originalName": null,
+                                            "const": "tt0043183"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Dramatic Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170772",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Goodyear Playhouse",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDkzMzNkOGItMmE2Yi00Yzc2LWIzMzctZTY2Yjc4ZGZkZjE5XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 323,
+                                            "originalName": "Goodyear Television Playhouse",
+                                            "const": "tt0043204"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Dramatic Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170774",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Kraft Theatre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTJhODQyMzctYzQxOC00MTljLWFmMzMtOWZiMTdjYWYzNWUwXkEyXkFqcGdeQXVyNDYwNTkyMg@@._V1_.jpg",
+                                            "imageHeight": 1858,
+                                            "imageWidth": 2500,
+                                            "originalName": "Kraft Television Theatre",
+                                            "const": "tt0039123"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Dramatic Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170773",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Studio One",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDllODVhZGMtOTM2NC00NTE5LWFmYjktZmM3Yzg2YTMzM2FjXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0040051"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Dramatic Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170775",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Mystery, Action or Adventure Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Dragnet",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGFjZDAwYjQtZGFkOS00OTc4LTgwMTgtNjk5MjA5M2FmNDU5XkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_.jpg",
+                                            "imageHeight": 1084,
+                                            "imageWidth": 764,
+                                            "originalName": null,
+                                            "const": "tt0043194"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Mystery, Action or Adventure Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170786",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Foreign Intrigue",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzE2MjBiY2MtNmM2MC00MjE4LTkyMWItOGZhNDZiMjM4OTEyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 431,
+                                            "imageWidth": 300,
+                                            "originalName": null,
+                                            "const": "tt0043199"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Mystery, Action or Adventure Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170788",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Martin Kane",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzBkOThiMDktYmIxNi00NDZmLWI1ODUtYWUxYTg2ZWQ0NWM3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 347,
+                                            "imageWidth": 605,
+                                            "originalName": "Martin Kane, Private Eye",
+                                            "const": "tt0041042"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Mystery, Action or Adventure Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170789",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Racket Squad",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzc0NzI1YzctYjVmZC00OWQzLThiYWQtNDk3Y2Q4MGUxMzY5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+                                            "imageHeight": 534,
+                                            "imageWidth": 372,
+                                            "originalName": null,
+                                            "const": "tt0042139"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Mystery, Action or Adventure Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170790",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Big Story",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTY1ODZiNDUtY2Q5NS00MzFmLWI1OTEtNzFmODNlNGQzYmM3XkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 295,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0041007"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Mystery, Action or Adventure Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170787",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Public Affairs Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "See It Now",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1MjQ0ODMzOF5BMl5BanBnXkFtZTcwOTczNjYzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 355,
+                                            "originalName": null,
+                                            "const": "tt0211168"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Affairs Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170781",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Camel News Caravan",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTc0NzliMGYtNjZkZS00MDQ2LWFmYmMtOGU3MDEyOGVlZDMwXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg",
+                                            "imageHeight": 872,
+                                            "imageWidth": 690,
+                                            "originalName": null,
+                                            "const": "tt0806870"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Affairs Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170783",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Life Is Worth Living",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjg2YzU2ZDctZTk1Zi00YzIwLTllNTEtMjJiNzVmMjM0MjgzXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0211820"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Affairs Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393747",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Meet the Press",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjYxYWVlNDgtNDYxOC00NDNkLTkzNjMtZmQ1MTgxNTllNTJmXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0149490"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Affairs Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170784",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Victory at Sea",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTM3YmQwNjQtNDMyOS00NjgzLTg4MWItMWVkY2Y0NGY1ZWZkXkEyXkFqcGdeQXVyNzA3ODY5NTU@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 352,
+                                            "originalName": null,
+                                            "const": "tt0046658"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Affairs Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170785",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Situation Comedy",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "I Love Lucy",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDhhN2Y1NzMtNGVlZS00MTNjLWIxN2ItYzJiN2ZhMTc2OGIwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+                                            "imageHeight": 1765,
+                                            "imageWidth": 1200,
+                                            "originalName": null,
+                                            "const": "tt0043208"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Desi Arnaz",
+                                            "note": "(executive producer)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTc2OTg3NTM5NV5BMl5BanBnXkFtZTYwOTc0MzI2._V1_.jpg",
+                                            "imageHeight": 341,
+                                            "imageWidth": 450,
+                                            "const": "nm0000789"
+                                        },
+                                        {
+                                            "name": "Jess Oppenheimer",
+                                            "note": "(producer)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0649188"
+                                        }
+                                    ],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": 1571412787,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170791",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mister Peepers",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkwMzczODUzMl5BMl5BanBnXkFtZTcwMTg4MjA0MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 355,
+                                            "originalName": null,
+                                            "const": "tt0044279"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170794",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Our Miss Brooks",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk1MTQ3NjE2NF5BMl5BanBnXkFtZTYwNjI4MzQ5._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 258,
+                                            "originalName": null,
+                                            "const": "tt0044287"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170795",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Adventures of Ozzie and Harriet",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMWVhYjUtM2NhZi00ZmNkLTkxOTItNzg2OWI5Zjg3MTBkXkEyXkFqcGdeQXVyMTIzNTI5NTM1._V1_.jpg",
+                                            "imageHeight": 1600,
+                                            "imageWidth": 1200,
+                                            "originalName": null,
+                                            "const": "tt0044230"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170796",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Amos 'n Andy Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2E0NWUwNWMtOGJmMS00ODBmLTgwZTgtOTAyMzY0ZjkxM2YwXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_.jpg",
+                                            "imageHeight": 1275,
+                                            "imageWidth": 1008,
+                                            "originalName": null,
+                                            "const": "tt0043175"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170792",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The George Burns and Gracie Allen Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE3MDQyNDM0MV5BMl5BanBnXkFtZTcwMTY3OTQ1MQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 357,
+                                            "originalName": null,
+                                            "const": "tt0042111"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Situation Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170793",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Variety Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Your Show of Shows",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjEwNTg4MjI5MV5BMl5BanBnXkFtZTcwNjg1MzMzMQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 300,
+                                            "originalName": null,
+                                            "const": "tt0042173"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170776",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Arthur Godfrey and His Friends",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTIwMTcyZDgtM2NjNy00NmRkLTliYzgtOTE3YTVhYzc5Mjk4XkEyXkFqcGdeQXVyODk3MDk1MDg@._V1_.jpg",
+                                            "imageHeight": 353,
+                                            "imageWidth": 361,
+                                            "originalName": null,
+                                            "const": "tt0041002"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170777",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Colgate Comedy Hour",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTU2MDI3N15BMl5BanBnXkFtZTcwMjEyNTQyMQ@@._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 332,
+                                            "originalName": null,
+                                            "const": "tt0042094"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170778",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Ed Sullivan Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTdiYWVkNWQtYzVhYS00MWNkLTlhMTItMjI2YmFjNzkyYjU3XkEyXkFqcGdeQXVyMTA5OTYxNTk4._V1_.jpg",
+                                            "imageHeight": 576,
+                                            "imageWidth": 560,
+                                            "originalName": "Toast of the Town",
+                                            "const": "tt0040053"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170780",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Jackie Gleason Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2QwZWQxNDItYzZiMi00NzQ5LWIwZGYtNzJhYzI3ZWIwODc5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 375,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0044272"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Variety Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170779",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Most Outstanding Personality",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Fulton J. Sheen",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2YyNWRmYTUtNWIzNS00NGMyLWE2ZDktYTQ5NzNiNTQ4N2JkXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_.jpg",
+                                            "imageHeight": 877,
+                                            "imageWidth": 596,
+                                            "const": "nm0790679"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0393746",
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Adlai Stevenson",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2IxYTY4ZjctMjcyYS00OWM5LWFiNDctMDkzNzBlMDUxM2Y4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 995,
+                                            "imageWidth": 800,
+                                            "const": "nm0828867"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170836",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Arthur Godfrey",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0OTQwMDAwN15BMl5BanBnXkFtZTYwMDYyNTM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 339,
+                                            "const": "nm0323960"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170832",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Donald O'Connor",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI0NTA2ODE4NV5BMl5BanBnXkFtZTYwODMyNTM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 368,
+                                            "const": "nm0640307"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170835",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Edward R. Murrow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWFlNmI5YmItMWUzZC00ZGI3LWIzMjMtNzJhNWUwYWI2ODRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+                                            "imageHeight": 700,
+                                            "imageWidth": 925,
+                                            "const": "nm0615386"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170834",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jimmy Durante",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxMzM5MF5BMl5BanBnXkFtZTYwMzIzMzQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 300,
+                                            "const": "nm0002051"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170833",
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Lucille Ball",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk1MzkwMTA2Nl5BMl5BanBnXkFtZTYwNzM5OTI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 392,
+                                            "const": "nm0000840"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "characterNames": [],
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "awardNominationId": "an0170831",
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002214"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000223",
+            "requestKey": {
+                "year": 1953,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000223"
+            },
+            "eventEditionId": "ee0024255",
+            "eventName": "Primetime Emmy Awards",
+            "year": 1953
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

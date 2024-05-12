@@ -1,0 +1,2225 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Oscar",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Best Actor in a Leading Role",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Clark Gable",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1NDY5MjM5Ml5BMl5BanBnXkFtZTYwNTU1OTQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 346,
+                                            "const": "nm0000022"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "It Happened One Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+                                            "imageHeight": 2697,
+                                            "imageWidth": 1798,
+                                            "originalName": null,
+                                            "const": "tt0025316"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "In 1996, Steven Spielberg anonymously purchased Clark Gable's Oscar to protect it from further commercial exploitation, gave it back to the Academy of Motion Picture Arts and Sciences, commenting that he could think of \"no better sanctuary for Gable's only Oscar than the Motion Picture Academy\".",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056489",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Morgan",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzMTc0MzQ2OV5BMl5BanBnXkFtZTcwMzI5NTkxNA@@._V1_.jpg",
+                                            "imageHeight": 1494,
+                                            "imageWidth": 2048,
+                                            "const": "nm0604656"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Affairs of Cellini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 879,
+                                            "imageWidth": 574,
+                                            "originalName": null,
+                                            "const": "tt0024816"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056490",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "William Powell",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4MzcxMjExN15BMl5BanBnXkFtZTcwODA2NDQyOA@@._V1_.jpg",
+                                            "imageHeight": 1256,
+                                            "imageWidth": 1000,
+                                            "const": "nm0001635"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Thin Man",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2FlMDAxZjItNzFhNS00ZDJlLWE4ZjAtOTkyMTJlODZkYjUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+                                            "imageHeight": 1214,
+                                            "imageWidth": 805,
+                                            "originalName": null,
+                                            "const": "tt0025878"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actor in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056491",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Actress in a Leading Role",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Claudette Colbert",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA3MzcwMzQ4NzZeQTJeQWpwZ15BbWU2MDYyOTY0Ng@@._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 336,
+                                            "const": "nm0001055"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "It Happened One Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+                                            "imageHeight": 2697,
+                                            "imageWidth": 1798,
+                                            "originalName": null,
+                                            "const": "tt0025316"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Claudette Colbert was so convinced that she would lose the Oscar to write-in nominee Bette Davis that she didn't attended the ceremony originally. She was summoned from a train station to pick up her Academy Award.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056492",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bette Davis",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmMzMjdlMTQtNmE5ZC00NDQyLTg5NzUtZWU1Njg5ZDkwNDc2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 3577,
+                                            "imageWidth": 2840,
+                                            "const": "nm0000012"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Of Human Bondage",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDJiOGNkYTUtZDBmMS00MTgyLWIxYjQtODg0YTU2MTQ4ZDMzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 1919,
+                                            "imageWidth": 1280,
+                                            "originalName": null,
+                                            "const": "tt0025586"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": "This was a write-in nomination.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056495",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Grace Moore",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTQyMDVhZTktZTZkNy00MTU1LThjOTgtYzRlNWIzMzgyZDJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 360,
+                                            "const": "nm0601254"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056493",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Norma Shearer",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg4OTI0MjU5NV5BMl5BanBnXkFtZTYwNjYxNjU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 351,
+                                            "const": "nm0790454"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Barretts of Wimpole Street",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+                                            "imageHeight": 3974,
+                                            "imageWidth": 2684,
+                                            "originalName": null,
+                                            "const": "tt0024865"
+                                        }
+                                    ],
+                                    "categoryName": "Best Actress in a Leading Role",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056494",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Art Direction",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Merry Widow",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjVjMmZkZTAtYzAwMC00MDUxLWFiODYtMzJjNjhjNzVjNTJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+                                            "imageHeight": 1200,
+                                            "imageWidth": 804,
+                                            "originalName": null,
+                                            "const": "tt0025493"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Cedric Gibbons",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzM4MTkwMmMtNzYwMy00YzVhLWE1YjMtMWYyMjNhZDExMmM5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 498,
+                                            "imageWidth": 664,
+                                            "const": "nm0316539"
+                                        },
+                                        {
+                                            "name": "Fredric Hope",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0393978"
+                                        }
+                                    ],
+                                    "categoryName": "Best Art Direction",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056508",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Affairs of Cellini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 879,
+                                            "imageWidth": 574,
+                                            "originalName": null,
+                                            "const": "tt0024816"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Richard Day",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0206554"
+                                        }
+                                    ],
+                                    "categoryName": "Best Art Direction",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056509",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gay Divorcee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2215,
+                                            "imageWidth": 1588,
+                                            "originalName": null,
+                                            "const": "tt0025164"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Van Nest Polglase",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzNlOWE5YzQtMGI2OC00MjJkLWE5ZDYtOGM2ODgxNzUxMWMxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+                                            "imageHeight": 1133,
+                                            "imageWidth": 871,
+                                            "const": "nm0689026"
+                                        },
+                                        {
+                                            "name": "Carroll Clark",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0163754"
+                                        }
+                                    ],
+                                    "categoryName": "Best Art Direction",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056510",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Assistant Director",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "John Waters",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0914112"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Viva Villa!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1369,
+                                            "originalName": null,
+                                            "const": "tt0025948"
+                                        }
+                                    ],
+                                    "categoryName": "Best Assistant Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056522",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cullen Tate",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0851121"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Cleopatra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0024991"
+                                        }
+                                    ],
+                                    "categoryName": "Best Assistant Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056524",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Scott R. Beal",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0063634"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Imitation of Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGI3YmE5NTgtMDQwNy00YTdmLWFlNzItNzVlM2M2YTNlMjM0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+                                            "imageHeight": 1689,
+                                            "imageWidth": 1124,
+                                            "originalName": null,
+                                            "const": "tt0025301"
+                                        }
+                                    ],
+                                    "categoryName": "Best Assistant Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056523",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Cinematography",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cleopatra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0024991"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Victor Milner",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTgxYzhjZjQtZGNjNS00MDc5LTkyYjYtZWRmMGVmOTVlOWNiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 816,
+                                            "imageWidth": 1030,
+                                            "const": "nm0005800"
+                                        }
+                                    ],
+                                    "categoryName": "Best Cinematography",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056505",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Operator 13",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjFlOTJjOTQtNmNlNi00ZjgwLTg5MzgtNjBhNzc5ZTVkZjkyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+                                            "imageHeight": 1406,
+                                            "imageWidth": 921,
+                                            "originalName": null,
+                                            "const": "tt0025607"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "George J. Folsey",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTc0ZWVmMWEtOTBkOC00N2YxLTg0YzUtOTY2NTNmODk0ZjllXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+                                            "imageHeight": 1714,
+                                            "imageWidth": 1285,
+                                            "const": "nm0005706"
+                                        }
+                                    ],
+                                    "categoryName": "Best Cinematography",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056507",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Affairs of Cellini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 879,
+                                            "imageWidth": 574,
+                                            "originalName": null,
+                                            "const": "tt0024816"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Charles Rosher",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGE2ZGIzYWUtN2EyNy00NjY3LTgyNGQtZDFiZTIzY2FjYWNjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 1600,
+                                            "imageWidth": 1120,
+                                            "const": "nm0003546"
+                                        }
+                                    ],
+                                    "categoryName": "Best Cinematography",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056506",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Director",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Frank Capra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ1NjE0NzgzNV5BMl5BanBnXkFtZTYwODg0MjI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 354,
+                                            "const": "nm0001008"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "It Happened One Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+                                            "imageHeight": 2697,
+                                            "imageWidth": 1798,
+                                            "originalName": null,
+                                            "const": "tt0025316"
+                                        }
+                                    ],
+                                    "categoryName": "Best Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056496",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Victor Schertzinger",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGY1OGRlZmEtOThiYS00MzRmLTk0NjgtMWJlMDc5OTc0OTFmXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+                                            "imageHeight": 1079,
+                                            "imageWidth": 890,
+                                            "const": "nm0006276"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "categoryName": "Best Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056497",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "W.S. Van Dyke",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA5YjU4Y2UtNzcxNC00NTYyLWEwOTQtMThjNjQ5ZDBlMzEyXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 620,
+                                            "imageWidth": 481,
+                                            "const": "nm0886754"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "The Thin Man",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2FlMDAxZjItNzFhNS00ZDJlLWE4ZjAtOTkyMTJlODZkYjUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+                                            "imageHeight": 1214,
+                                            "imageWidth": 805,
+                                            "originalName": null,
+                                            "const": "tt0025878"
+                                        }
+                                    ],
+                                    "categoryName": "Best Director",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056498",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Film Editing",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Eskimo",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmU3ZDQzNzctMzNkNi00MjM2LTljMGItMjQ5N2U5YzYxOGVmXkEyXkFqcGdeQXVyODQ2NzAzMjY@._V1_.jpg",
+                                            "imageHeight": 760,
+                                            "imageWidth": 501,
+                                            "originalName": null,
+                                            "const": "tt0023990"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Conrad A. Nervig",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0626308"
+                                        }
+                                    ],
+                                    "categoryName": "Best Film Editing",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056519",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cleopatra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0024991"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Anne Bauchens",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0061640"
+                                        }
+                                    ],
+                                    "categoryName": "Best Film Editing",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056520",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Gene Milford",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGE2NjU2NmYtNTgwMC00ZTQ3LThlODctYjRhMGJhNDY3M2IxXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg",
+                                            "imageHeight": 333,
+                                            "imageWidth": 500,
+                                            "const": "nm0587332"
+                                        }
+                                    ],
+                                    "categoryName": "Best Film Editing",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056521",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Music, Original Song",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gay Divorcee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2215,
+                                            "imageWidth": 1588,
+                                            "originalName": null,
+                                            "const": "tt0025164"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Con Conrad",
+                                            "note": "(music)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0175628"
+                                        },
+                                        {
+                                            "name": "Herb Magidson",
+                                            "note": "(lyrics)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0536054"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Original Song",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"The Continental\".",
+                                    "songNames": [
+                                        "The Continental"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056525",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Flying Down to Rio",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDhjODgzMzItODU5OS00NmU4LTk2ZTgtYWFkOWNjN2IzNDA5XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2805,
+                                            "imageWidth": 1810,
+                                            "originalName": null,
+                                            "const": "tt0024025"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Vincent Youmans",
+                                            "note": "(music)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0949207"
+                                        },
+                                        {
+                                            "name": "Edward Eliscu",
+                                            "note": "(lyrics)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0253697"
+                                        },
+                                        {
+                                            "name": "Gus Kahn",
+                                            "note": "(lyrics)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTBiMThhYmQtMWZkZS00OWZkLWI4MDctNGJiMmEzNzI3ZmRiL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 954,
+                                            "imageWidth": 734,
+                                            "const": "nm0006146"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Original Song",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Carioca\".",
+                                    "songNames": [
+                                        "Carioca"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056526",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "She Loves Me Not",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2UyZjdmYWItY2VjYy00OTQ5LTg1NGEtNmE3ODFkODY5ZDhiXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0025774"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ralph Rainger",
+                                            "note": "(music)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjg5MmE5ZjYtZGFkNi00ZmMxLTg5MTUtNDNhNjgyM2JkODM5L2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 436,
+                                            "imageWidth": 400,
+                                            "const": "nm0006247"
+                                        },
+                                        {
+                                            "name": "Leo Robin",
+                                            "note": "(lyrics)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTE0MjI2ODQtZWMyNC00MGFhLWEyZTEtZTQ3YTIyYjc2MWI1XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+                                            "imageHeight": 1000,
+                                            "imageWidth": 799,
+                                            "const": "nm0732209"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Original Song",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For the song \"Love in Bloom\".",
+                                    "songNames": [
+                                        "Love in Bloom"
+                                    ],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056527",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Music, Score",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Louis Silvers",
+                                            "note": "(head of department)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0799007"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Score",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Thematic music by Victor Schertzinger and Gus Kahn.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056528",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gay Divorcee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2215,
+                                            "imageWidth": 1588,
+                                            "originalName": null,
+                                            "const": "tt0025164"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Max Steiner",
+                                            "note": "(head of department)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 797,
+                                            "imageWidth": 640,
+                                            "const": "nm0000070"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Score",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Score by Kenneth S. Webb and Samuel Hoffenstein.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056529",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Lost Patrol",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTVmNmZkOGQtMTczNS00YWRjLWE5NzktNzU5MjM2MjlmOTA1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+                                            "imageHeight": 2005,
+                                            "imageWidth": 1339,
+                                            "originalName": null,
+                                            "const": "tt0025423"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Max Steiner",
+                                            "note": "(head of department)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDAzMjZhYTQtZjQxMC00ODE4LWIxYzEtMjljNWRjODAxZjY0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 797,
+                                            "imageWidth": 640,
+                                            "const": "nm0000070"
+                                        }
+                                    ],
+                                    "categoryName": "Best Music, Score",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Score by Max Steiner.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056530",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Picture",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "It Happened One Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+                                            "imageHeight": 2697,
+                                            "imageWidth": 1798,
+                                            "originalName": null,
+                                            "const": "tt0025316"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": 1618153069,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056477",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cleopatra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0024991"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056479",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Flirtation Walk",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 338,
+                                            "originalName": null,
+                                            "const": "tt0025124"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056480",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Here Comes the Navy",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTZjMGU0NDUtMWRkYi00YjE3LWEzNjYtY2IyNjJhYmQ0NDliXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+                                            "imageHeight": 959,
+                                            "imageWidth": 617,
+                                            "originalName": null,
+                                            "const": "tt0025238"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056482",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Imitation of Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGI3YmE5NTgtMDQwNy00YTdmLWFlNzItNzVlM2M2YTNlMjM0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+                                            "imageHeight": 1689,
+                                            "imageWidth": 1124,
+                                            "originalName": null,
+                                            "const": "tt0025301"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056484",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056485",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Barretts of Wimpole Street",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+                                            "imageHeight": 3974,
+                                            "imageWidth": 2684,
+                                            "originalName": null,
+                                            "const": "tt0024865"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056478",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gay Divorcee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2215,
+                                            "imageWidth": 1588,
+                                            "originalName": null,
+                                            "const": "tt0025164"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056481",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The House of Rothschild",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTBkNjA3NmQtOGQ3MC00ODk2LTlmZjYtYmQ3ZGIxZTczMjFjXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+                                            "imageHeight": 485,
+                                            "imageWidth": 300,
+                                            "originalName": null,
+                                            "const": "tt0025272"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056483",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Thin Man",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2FlMDAxZjItNzFhNS00ZDJlLWE4ZjAtOTkyMTJlODZkYjUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+                                            "imageHeight": 1214,
+                                            "imageWidth": 805,
+                                            "originalName": null,
+                                            "const": "tt0025878"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056486",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The White Parade",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzBmNzRjNDMtM2MxNS00OTMyLWE4ZjMtZDViZjQ3MzZjNGEwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+                                            "imageHeight": 800,
+                                            "imageWidth": 533,
+                                            "originalName": null,
+                                            "const": "tt0025986"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056488",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Viva Villa!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1369,
+                                            "originalName": null,
+                                            "const": "tt0025948"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Picture",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056487",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Short Subject, Cartoons",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Tortoise and the Hare",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTY2MmVjOTEtYjJkNC00M2QyLTgwNzItODAyYTFiYmZhNGQ4XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+                                            "imageHeight": 1080,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0027126"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Walt Disney",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 390,
+                                            "const": "nm0000370"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Cartoons",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056531",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Holiday Land",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTg1MGJlNWQtYTUzYS00Y2YzLWFiNmYtNThhODA0MGFlZjI3XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+                                            "imageHeight": 2049,
+                                            "imageWidth": 1542,
+                                            "originalName": null,
+                                            "const": "tt0025260"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Charles Mintz",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0591762"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Cartoons",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056532",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Jolly Little Elves",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTJjZTlkZjYtYTY1Yi00MzRmLTlhODItMmNjMjk2NDI2ZTAyXkEyXkFqcGdeQXVyNjc2NjkzNTg@._V1_.jpg",
+                                            "imageHeight": 720,
+                                            "imageWidth": 1280,
+                                            "originalName": null,
+                                            "const": "tt0025332"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Walter Lantz",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmNiMjVlMGEtNTg4Zi00NDcwLWE5ZjQtYzlmMzIwYWNjOWI2XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 540,
+                                            "imageWidth": 720,
+                                            "const": "nm0487237"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Cartoons",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056533",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Short Subject, Comedy",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "La Cucaracha",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2Q2Yzk1MzYtNDljZC00MWVkLWEyNDAtNjA5YWZjNDdkODc4XkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_.jpg",
+                                            "imageHeight": 1500,
+                                            "imageWidth": 1000,
+                                            "originalName": null,
+                                            "const": "tt0025019"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Kenneth Macgowan",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0532284"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056534",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Men in Black",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDYxODcwN2ItMjU2Yy00NDJhLTgzNTQtOGNhN2YyYmZkZWM5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+                                            "imageHeight": 1327,
+                                            "imageWidth": 897,
+                                            "originalName": null,
+                                            "const": "tt0025488"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Jules White",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDg0MjU4MDEtMDQxYS00YjI4LWE2NmEtNzZjZDM0MTdjYmI4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+                                            "imageHeight": 823,
+                                            "imageWidth": 859,
+                                            "const": "nm0925028"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056535",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "What, No Men?",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDZjZThiMTMtMWY0MS00YzI0LTgwODUtM2E5N2Y2NDU5NmU4XkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_.jpg",
+                                            "imageHeight": 600,
+                                            "imageWidth": 400,
+                                            "originalName": null,
+                                            "const": "tt0025977"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Short Subject, Comedy",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056536",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Short Subject, Novelty",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "City of Wax",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGU4ZmNhOWUtZmFiZC00YzI2LTg5MzktNWM1YWEwNDJmODZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 375,
+                                            "originalName": null,
+                                            "const": "tt0024986"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Horace Woodard",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0940139"
+                                        },
+                                        {
+                                            "name": "Stacy Woodard",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0940152"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Novelty",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056537",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bosom Friends",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2U0NGNjMjMtMzI1Ny00OTU4LTk0OGItMTYyOGMxYzJiYjQwXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+                                            "imageHeight": 996,
+                                            "imageWidth": 666,
+                                            "originalName": null,
+                                            "const": "tt0024909"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Short Subject, Novelty",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056538",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Strikes and Spares",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI4NTUxMjk5OV5BMl5BanBnXkFtZTYwMDYzMzc4._V1_.jpg",
+                                            "imageHeight": 334,
+                                            "imageWidth": 216,
+                                            "originalName": null,
+                                            "const": "tt0025840"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Pete Smith",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzc5MmI0MjctYzY1OC00ZjM2LWIzNzctMGE3NDBkNTEzOWE4XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_.jpg",
+                                            "imageHeight": 350,
+                                            "imageWidth": 280,
+                                            "const": "nm0809570"
+                                        }
+                                    ],
+                                    "categoryName": "Best Short Subject, Novelty",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056539",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Sound, Recording",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "John P. Livadary",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0515093"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056511",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Cleopatra",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 335,
+                                            "originalName": null,
+                                            "const": "tt0024991"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Franklin Hansen",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0360630"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056513",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Flirtation Walk",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcwODg1OTE3OF5BMl5BanBnXkFtZTgwMDY0NDIwMjE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 338,
+                                            "originalName": null,
+                                            "const": "tt0025124"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Nathan Levinson",
+                                            "note": "(sound director)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjU0MDM2MTE0N15BMl5BanBnXkFtZTgwOTc5MDM1NzM@._V1_.jpg",
+                                            "imageHeight": 722,
+                                            "imageWidth": 527,
+                                            "const": "nm0506080"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056514",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Imitation of Life",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGI3YmE5NTgtMDQwNy00YTdmLWFlNzItNzVlM2M2YTNlMjM0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+                                            "imageHeight": 1689,
+                                            "imageWidth": 1124,
+                                            "originalName": null,
+                                            "const": "tt0025301"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Theodore Soderberg",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm5119569"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0395634",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Affairs of Cellini",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmIwZDYxOWItZTc4ZS00N2VjLTlhZmItYmJhOTJmNDAwMDYxXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 879,
+                                            "imageWidth": 574,
+                                            "originalName": null,
+                                            "const": "tt0024816"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Thomas T. Moulton",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0609771"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056512",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Gay Divorcee",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjNhYTQ5MmEtNjAyNS00MDYwLThkMmQtNzAxY2JhNjM3NGI2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                                            "imageHeight": 2215,
+                                            "imageWidth": 1588,
+                                            "originalName": null,
+                                            "const": "tt0025164"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Carl Dreher",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0237393"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056515",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The White Parade",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzBmNzRjNDMtM2MxNS00OTMyLWE4ZjMtZDViZjQ3MzZjNGEwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+                                            "imageHeight": 800,
+                                            "imageWidth": 533,
+                                            "originalName": null,
+                                            "const": "tt0025986"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Edmund H. Hansen",
+                                            "note": "(sound director)",
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0360770"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056518",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Viva Villa!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1369,
+                                            "originalName": null,
+                                            "const": "tt0025948"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Douglas Shearer",
+                                            "note": "(sound director)",
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmJjMWQxMTQtY2Q0Mi00YWI4LWE3MTItM2E4YzFjN2FhNGRlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_.jpg",
+                                            "imageHeight": 1022,
+                                            "imageWidth": 792,
+                                            "const": "nm0790428"
+                                        }
+                                    ],
+                                    "categoryName": "Best Sound, Recording",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056517",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Writing, Adaptation",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "It Happened One Night",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_.jpg",
+                                            "imageHeight": 2697,
+                                            "imageWidth": 1798,
+                                            "originalName": null,
+                                            "const": "tt0025316"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Robert Riskin",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjRlNzIxMzctZDlhYi00NTc1LWJkMjUtMTgyMGIzY2RjZDUzXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_.jpg",
+                                            "imageHeight": 669,
+                                            "imageWidth": 841,
+                                            "const": "nm0728307"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Adaptation",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056499",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Thin Man",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2FlMDAxZjItNzFhNS00ZDJlLWE4ZjAtOTkyMTJlODZkYjUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+                                            "imageHeight": 1214,
+                                            "imageWidth": 805,
+                                            "originalName": null,
+                                            "const": "tt0025878"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Frances Goodrich",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0329304"
+                                        },
+                                        {
+                                            "name": "Albert Hackett",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0352443"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Adaptation",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056500",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Viva Villa!",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjMwZWMxZDctNTlkNC00YTE4LWIzZGEtYWZkNzFhZWU3ZDBjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1369,
+                                            "originalName": null,
+                                            "const": "tt0025948"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Ben Hecht",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGMwMGI2NmItYjkwYy00N2FkLTlmNzUtNDI2YjU0ZTk1YzhlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_.jpg",
+                                            "imageHeight": 1800,
+                                            "imageWidth": 1422,
+                                            "const": "nm0372942"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Adaptation",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056501",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Writing, Original Story",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Manhattan Melodrama",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGRhZWVkZGUtY2FjMi00NjhlLThhNGYtYTY4ZThhMzdkMjg3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0025464"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Arthur Caesar",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0128361"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Original Story",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056502",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Hide-Out",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjE2NjFhZjYtODc4Yy00MzNhLWEwZTAtZGQ3ZDhkZDM1OWUyXkEyXkFqcGdeQXVyMjc3MjgzOTU@._V1_.jpg",
+                                            "imageHeight": 3000,
+                                            "imageWidth": 2013,
+                                            "originalName": null,
+                                            "const": "tt0025251"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Mauri Grashin",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "nm0335831"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Original Story",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056503",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Richest Girl in the World",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjExZTk2Y2EtMzdjMy00MzdmLTg2YzAtNjZkMjc4MDI2MTNhXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_.jpg",
+                                            "imageHeight": 967,
+                                            "imageWidth": 749,
+                                            "originalName": null,
+                                            "const": "tt0025718"
+                                        }
+                                    ],
+                                    "secondaryNominees": [
+                                        {
+                                            "name": "Norman Krasna",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzVkN2QwMDctNTRkMy00ZWVhLWI5ZDEtYzJkNWFhOTg4ZWNhXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_.jpg",
+                                            "imageHeight": 1113,
+                                            "imageWidth": 835,
+                                            "const": "nm0469915"
+                                        }
+                                    ],
+                                    "categoryName": "Best Writing, Original Story",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Oscar",
+                                    "awardNominationId": "an0056504",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0000016"
+                },
+                {
+                    "awardName": "Juvenile Award",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Shirley Temple",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGYwODU5MDItNDg2YS00YWIxLTk2MjUtNmRhMmEyZWVmOWFhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+                                            "imageHeight": 4100,
+                                            "imageWidth": 3340,
+                                            "const": "nm0000073"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "In grateful recognition of her outstanding contribution to screen entertainment during the year 1934.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Juvenile Award",
+                                    "awardNominationId": "an0047702",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0000027"
+                },
+                {
+                    "awardName": "Academy Award of Merit",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "Not awarded.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Academy Award of Merit",
+                                    "awardNominationId": "an0047703",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0000017"
+                },
+                {
+                    "awardName": "Scientific and Engineering Award",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "For their development of the vertical cut disc method of recording sound (\"hill and dale recording\").",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Scientific and Engineering Award",
+                                    "awardNominationId": "an0047704",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0000018"
+                },
+                {
+                    "awardName": "Technical Achievement Award",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "One Night of Love",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzk5NDg0NTY4NF5BMl5BanBnXkFtZTgwODQxODgwMzE@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 333,
+                                            "originalName": null,
+                                            "const": "tt0025601"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "For their application of the vertical cut disc method (\"hill and dale recording\") to actual studio production, with their recording of the sound on the picture One Night of Love.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Technical Achievement Award",
+                                    "awardNominationId": "an0047705",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "For their development of the Bell and Howell fully automatic sound and picture printer.",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Technical Achievement Award",
+                                    "awardNominationId": "an0047706",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0000019"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000003",
+            "requestKey": {
+                "year": 1935,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000003"
+            },
+            "eventEditionId": "ee0034258",
+            "eventName": "Academy Awards, USA",
+            "year": 1935
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}

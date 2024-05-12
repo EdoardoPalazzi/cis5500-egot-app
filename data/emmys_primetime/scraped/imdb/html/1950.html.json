@@ -1,0 +1,665 @@
+{
+    "nomineesWidgetModel": {
+        "refMarker": "ev_nom",
+        "eventEditionSummary": {
+            "awards": [
+                {
+                    "awardName": "Primetime Emmy",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": "Best Children's Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Time for Beany",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2VjZGZiMjQtOWEyOC00Zjc2LTlkNDUtMDZlZmI0NWJjMjk0XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 573,
+                                            "imageWidth": 414,
+                                            "originalName": null,
+                                            "const": "tt0145637"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166847",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Kukla, Fran and Ollie",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDJlNTRlZGYtZDI5Yy00MzQ1LWFjOTctNDBlZTJjMTI1ODhmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 1002,
+                                            "imageWidth": 720,
+                                            "originalName": null,
+                                            "const": "tt0159886"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166848",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Adventures of Cyclone Malone",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGI1NjBjODYtZjdlYy00NzQ1LTljYTQtYTIyYzZmODRmZTJjXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 2048,
+                                            "imageWidth": 1536,
+                                            "originalName": null,
+                                            "const": "tt0475437"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Children's Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166849",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Commercial",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Lucky Strike",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "co0174716"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Commercial",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0393075",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Film Made for and Viewed on Television in 1949",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Life of Riley",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYThmNGJlYjctYWI0NC00MTYwLWJkZmYtZTgyMmFkZDI0M2Y5XkEyXkFqcGdeQXVyNzkzODA4NzI@._V1_.jpg",
+                                            "imageHeight": 1563,
+                                            "imageWidth": 1095,
+                                            "originalName": null,
+                                            "const": "tt0041036"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Film Made for and Viewed on Television in 1949",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166854",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Lone Ranger",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzAyNmVmMTktZTg4MS00YzJkLWE3MDMtMzI2ZDhjOWVjZDA4XkEyXkFqcGdeQXVyMTE4MDYwNTc@._V1_.jpg",
+                                            "imageHeight": 960,
+                                            "imageWidth": 743,
+                                            "originalName": null,
+                                            "const": "tt0041038"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Film Made for and Viewed on Television in 1949",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166855",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Silver Theatre",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzNmNTFhYjUtYWFhMS00YTYwLWJjMWItNzhjMWE5MzczYjg1XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_.jpg",
+                                            "imageHeight": 754,
+                                            "imageWidth": 1353,
+                                            "originalName": null,
+                                            "const": "tt0041053"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Film Made for and Viewed on Television in 1949",
+                                    "winAnnouncementTime": null,
+                                    "notes": "For episode \"The Guiding Star\".",
+                                    "awardNominationId": "an0166856",
+                                    "songNames": [],
+                                    "episodeNames": [
+                                        "The Guiding Star"
+                                    ],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Your Show Time",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmU4OTFkZDctMDRmNi00MmZiLTgxYTItZmExNGM4NWRlMzYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 432,
+                                            "imageWidth": 310,
+                                            "originalName": null,
+                                            "const": "tt0041076"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Film Made for and Viewed on Television in 1949",
+                                    "winAnnouncementTime": null,
+                                    "notes": "Official ATAS records list title as \"Your Showtime\".",
+                                    "awardNominationId": "an0396196",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Kinescope Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Milton Berle Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTkzMDgwODEyN15BMl5BanBnXkFtZTYwMzM5OTE5._V1_.jpg",
+                                            "imageHeight": 475,
+                                            "imageWidth": 319,
+                                            "originalName": "Texaco Star Theatre Starring Milton Berle",
+                                            "const": "tt0040041"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Kinescope Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166843",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Studio One",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDllODVhZGMtOTM2NC00NTE5LWFmYjktZmM3Yzg2YTMzM2FjXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_.jpg",
+                                            "imageHeight": 1440,
+                                            "imageWidth": 960,
+                                            "originalName": null,
+                                            "const": "tt0040051"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Kinescope Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166846",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Fred Waring Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODZkYzNmNDUtYTVhMS00ZjA5LWI5OGItYzBmZDZlNDliZGJhXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 502,
+                                            "imageWidth": 479,
+                                            "originalName": null,
+                                            "const": "tt0195459"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Kinescope Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166844",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Goldbergs",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA4NzE0MDQwNzdeQTJeQWpwZ15BbWU4MDIzMzU5MDMx._V1_.jpg",
+                                            "imageHeight": 375,
+                                            "imageWidth": 500,
+                                            "originalName": null,
+                                            "const": "tt0041027"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Kinescope Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166845",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Live Show",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "The Ed Wynn Show",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQwOTY4ZGMtZWNjZS00ODc3LTkwNDMtYTU4YWU5MzY2NzgwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_.jpg",
+                                            "imageHeight": 562,
+                                            "imageWidth": 389,
+                                            "originalName": null,
+                                            "const": "tt0041021"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Live Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166840",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Stump the Stars",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA3ODcxNzYxNV5BMl5BanBnXkFtZTYwMjA1NjI2._V1_.jpg",
+                                            "imageHeight": 364,
+                                            "imageWidth": 450,
+                                            "originalName": "Pantomime Quiz",
+                                            "const": "tt0042130"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Live Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166841",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Your Witness",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "originalName": null,
+                                            "const": "tt0041077"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Live Show",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166842",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Best Public Service, Cultural or Educational Program",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Crusade in Europe",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTk0Mzk3MzQ3Nl5BMl5BanBnXkFtZTcwOTY2ODU0NQ@@._V1_.jpg",
+                                            "imageHeight": 500,
+                                            "imageWidth": 350,
+                                            "originalName": null,
+                                            "const": "tt0165006"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Best Public Service, Cultural or Educational Program",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166860",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Most Outstanding Kinescope Personality",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Milton Berle",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzA1MjU2NzcwNF5BMl5BanBnXkFtZTYwNDE1NTQ2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 287,
+                                            "const": "nm0000926"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Kinescope Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166857",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Arthur Godfrey",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY0OTQwMDAwN15BMl5BanBnXkFtZTYwMDYyNTM2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 339,
+                                            "const": "nm0323960"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Kinescope Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166859",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Fran Allison",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA5NjYzOTYxMV5BMl5BanBnXkFtZTYwODkwMTU2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 348,
+                                            "const": "nm0021437"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Kinescope Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166858",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        },
+                        {
+                            "categoryName": "Most Outstanding Live Personality",
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Ed Wynn",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTI1NzIyMjIyOF5BMl5BanBnXkFtZTYwMTIxMDI2._V1_.jpg",
+                                            "imageHeight": 450,
+                                            "imageWidth": 413,
+                                            "const": "nm0943956"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Live Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166850",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Bill Welsh",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzlkYmEwOGEtYTYyZC00ZGYwLTkwODgtY2U2YWJkZjEwZTQ1XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_.jpg",
+                                            "imageHeight": 2047,
+                                            "imageWidth": 1635,
+                                            "const": "nm0920521"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Live Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166853",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Mike Stokey",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODM1NTIwNzE2OF5BMl5BanBnXkFtZTYwNDA1NjI2._V1_.jpg",
+                                            "imageHeight": 366,
+                                            "imageWidth": 450,
+                                            "const": "nm0831410"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Live Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166852",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                },
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "Tom Harmon",
+                                            "note": null,
+                                            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmJmYzhlZmUtNzk3Yi00Y2QwLTljZTUtMDdmOWExOGUxOGEwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                                            "imageHeight": 409,
+                                            "imageWidth": 275,
+                                            "const": "nm0363567"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": "Most Outstanding Live Personality",
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166851",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Primetime Emmy",
+                                    "characterNames": [],
+                                    "isWinner": false
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002214"
+                },
+                {
+                    "awardName": "Station Award",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [
+                                        {
+                                            "name": "KTLA",
+                                            "note": null,
+                                            "imageUrl": null,
+                                            "imageHeight": 0,
+                                            "imageWidth": 0,
+                                            "const": "co0007077"
+                                        }
+                                    ],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": "For outstanding overall achievement in 1949. Klaus Landsberg accepted the award for KTLA.",
+                                    "awardNominationId": "an0166861",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Station Award",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002226"
+                },
+                {
+                    "awardName": "Station Award - Honorable Mention",
+                    "trivia": [],
+                    "categories": [
+                        {
+                            "categoryName": null,
+                            "nominations": [
+                                {
+                                    "primaryNominees": [],
+                                    "secondaryNominees": [],
+                                    "categoryName": null,
+                                    "winAnnouncementTime": null,
+                                    "notes": null,
+                                    "awardNominationId": "an0166862",
+                                    "songNames": [],
+                                    "episodeNames": [],
+                                    "awardName": "Station Award - Honorable Mention",
+                                    "characterNames": [],
+                                    "isWinner": true
+                                }
+                            ],
+                            "isPremiumCategory": false
+                        }
+                    ],
+                    "id": "aw0002227"
+                }
+            ],
+            "occurrence": 1,
+            "eventId": "ev0000223",
+            "requestKey": {
+                "year": 1950,
+                "occurrence": 1,
+                "preferredLanguage": "en",
+                "preferredRegion": "US",
+                "userRegion": "US",
+                "eventId": "ev0000223"
+            },
+            "eventEditionId": "ee0032996",
+            "eventName": "Primetime Emmy Awards",
+            "year": 1950
+        },
+        "alwaysDisplayAwardNames": true,
+        "shouldDisplayNotes": true,
+        "showOnlyPremiumCategories": false,
+        "mobile": false
+    }
+}
